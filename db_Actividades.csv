@@ -1,0 +1,1159 @@
+Actividades.id,Actividades.nombre,Actividades.tipo,Actividades.prioridad,Actividades.idSeccion,Actividades.fechaListo,Actividades.idAct
+192,Divisibilidad por 7,notas,6,24,2018-07-10 13:04:02,58
+193,Identifica múltiplos de 7,ejercicio,7,24,2018-07-10 13:20:31,135
+822,Ejemplo de producto de binomios,video,4,118,2018-07-24 06:33:29,45
+212,Identifica fracciones equivalentes,ejercicio,4,56,2018-07-11 05:20:27,142
+213,Simplificación de fracciones,notas,5,56,2018-07-11 05:31:46,67
+26,Definición,notas,1,3,2018-06-13 08:17:13,4
+867,Evalúa una función,ejercicio,2,122,2018-07-24 18:28:17,527
+821,Producto de binomios,ejercicio,5,118,2018-07-24 06:20:01,491
+820,Ejemplo producto de binomios con término común,video,6,118,2018-07-24 06:16:39,44
+1153,Evalúa la superficie de un prisma,ejercicio,10,153,2018-08-01 05:47:16,739
+214,Suma y resta de fracciones,video,8,56,2018-07-11 10:54:55,25
+1160,Valor de un ángulo II,ejercicio,4,152,2018-08-01 10:29:57,729
+1151,Superficie de un prisma,notas,9,153,2018-08-01 05:46:30,349
+61,Ubica el Poste de Luz,ejercicio,10,9,2018-06-22 12:00:45,80
+887,Inversa de una función lineal,ejercicio,3,125,2018-07-25 04:18:37,536
+67,Introducción,notas,1,15,2018-06-24 12:27:09,27
+889,Evalúa pendiente,ejercicio,4,125,2018-07-25 04:27:13,538
+237,Evalúa radical,ejercicio,6,59,2018-07-11 17:08:54,158
+62,Definición Rectas Paralelas,notas,1,14,2018-06-19 21:18:04,26
+29,Rectas Paralelas,ejercicio,8,14,2018-06-21 20:13:49,41
+33,Paralela dado un Corte con un Eje,ejercicio,10,14,2018-06-24 10:53:11,47
+55,Ecuación dados Dos Puntos,notas,1,10,2018-06-17 12:24:33,23
+34,Ángulos,notas,2,11,2018-06-14 22:29:34,12
+28,Medida de un ángulo en radianes,notas,4,11,2018-06-29 10:21:32,20
+14,Área de un Lote,ejercicio,10,10,2018-06-23 23:10:07,46
+69,Encuentra el Centro y el Radio,ejercicio,5,17,2018-06-24 16:21:53,44
+63,Punto de Corte,ejercicio,12,10,2018-06-20 08:47:12,34
+57,División dada una Razón,notas,1,9,2018-06-18 20:23:14,16
+21,El Plano Cartesiano,notas,1,8,2018-06-18 12:11:04,9
+70,Circunferencia dados Centro y Radio,ejercicio,7,17,2018-06-24 16:35:53,56
+59,Punto dada una Razón,ejercicio,5,9,2018-06-19 21:48:56,78
+60,Razón dado un Punto,ejercicio,7,9,2018-06-23 20:15:43,79
+71,Circunferencia dados Centro y Punto,ejercicio,9,17,2018-06-24 16:22:08,57
+51,Construcción animada de la gráfica de Coseno,video,2,4,2018-06-20 22:12:25,14
+74,Encuentra Centro y Radio dada Ecuación,ejercicio,5,18,2018-06-24 17:02:35,10
+25,Vértices de un Triángulo,ejercicio,12,9,2018-06-23 21:12:15,63
+31,Funciones trigonométricas,notas,1,5,2018-06-20 19:33:30,13
+53,Ecuaciones Trigonométricas,notas,1,13,2018-06-24 11:26:23,25
+890,Interés simple 1,ejercicio,5,125,2018-07-25 04:32:52,539
+11,Recta dados Dos Puntos,ejercicio,6,10,2018-06-23 23:11:20,71
+238,Simplifica radicales,ejercicio,8,59,2018-07-11 17:32:58,159
+75,Circunferencia dados Tres Puntos,ejercicio,7,18,2018-06-24 17:02:42,14
+68,Recta Tangente en un Punto,ejercicio,13,18,2018-06-24 17:02:47,7
+13,Evalúa Puntos,ejercicio,8,10,2018-06-23 23:10:29,45
+239,Simplifcación de radicales,notas,7,59,2018-07-11 17:35:14,74
+6,Recta dado Punto de Corte,ejercicio,14,10,2018-06-20 14:58:59,36
+12,Identidades trigonométricas,notas,1,12,2018-06-24 09:59:09,17
+241,Diferencia negativa,notas,1,66,2018-07-11 17:59:12,75
+72,Circunferencia dado un Diámetro,ejercicio,11,17,2018-06-24 16:22:17,58
+73,Circunferencias Tangentes a los Ejes,ejercicio,13,17,2018-06-24 16:22:26,61
+64,Ecuación Centro-Radio,notas,2,17,2018-06-24 12:30:33,6
+891,Interés simple 2,ejercicio,6,125,2018-07-25 04:42:51,540
+892,Depreciación lineal 1,ejercicio,7,125,2018-07-25 04:55:31,541
+2,Funciones trigonométricas de números reales,notas,1,6,2018-06-20 21:05:52,5
+52,Construcción animada de la gráfica del Seno.,video,3,4,2018-06-20 22:16:06,16
+65,Ecuación General,notas,1,18,2018-06-24 17:02:08,22
+42,Simplifica la expresión trigonométrica I,ejercicio,3,12,2018-06-29 10:25:48,20
+66,Ley del Coseno,notas,1,16,2018-06-24 17:23:45,1
+1152,Volumen de un prisma,notas,11,153,2018-08-01 05:46:54,351
+19,¿Cómo verificar una identidad trigonométrica?,notas,6,12,2018-06-29 09:29:52,19
+84,Ejemplo de una Identidad trigonométrcia I,video,7,12,2018-06-28 23:09:49,10
+893,Depreciación lineal 2,ejercicio,8,125,2018-07-25 05:05:25,542
+1154,Evalúa el volumen de un prisma,ejercicio,12,153,2018-08-01 05:47:29,735
+894,Depreciación lineal 3,ejercicio,9,125,2018-07-25 05:11:35,543
+895,Escalas de temperatura,ejercicio,10,125,2018-07-25 05:18:55,544
+905,Solución,notas,2,127,2018-07-25 10:22:15,305
+1244,Velocidad promedio,ejercicio,3,165,2018-12-13 17:16:20,796
+1245,Test1,ejercicio,1,176,2018-12-13 17:39:28,797
+38,Gráfica de Funciones Trigonométricas,notas,1,4,2018-06-20 22:03:12,2
+78,La Parábola como Cónica,notas,1,19,2018-06-24 21:03:40,24
+76,"2. Parábola con Vértice en (0,0)",ejercicio,7,19,2018-06-24 21:04:04,16
+80,"1. Parábola con Vértice en (h,k)",ejercicio,9,19,2018-06-24 21:04:16,29
+79,"2. Parábola dado un Punto, Vértice y Abertura",ejercicio,13,19,2018-06-24 21:04:10,24
+81,2. Parábola dados Vértice y Directriz,ejercicio,16,19,2018-06-24 21:04:24,37
+82,Aplicación: Antenas Parabólicas,ejercicio,20,19,2018-06-24 21:04:34,48
+85,Ejemplo de una Identidad trigonométricas II,video,8,12,2018-06-28 23:12:05,15
+86,Aprende un poco más de Identidades Trigonométrcias,video,9,12,2018-06-28 23:16:24,18
+1259,Test,notas,1,180,2019-03-12 17:47:55,370
+1260,Ejercicio 1,ejercicio,2,180,2019-03-12 17:48:45,809
+1157,Posición inicial ,ejercicio,9,16,2018-08-01 08:47:11,726
+4,Identifica a los naturales,ejercicio,2,3,2018-06-13 08:24:53,62
+195,Identifica múltiplos de 11,ejercicio,9,24,2018-07-10 13:39:21,136
+137,Logaritmos,notas,4,2,2018-07-03 10:03:42,42
+125,Potencias,notas,1,2,2018-07-02 10:57:34,37
+126,Evalúa potencia,ejercicio,2,2,2018-07-02 11:07:46,92
+194,Divisibilidad por 11,notas,8,24,2018-07-10 13:25:30,59
+196,Criba de Eratóstenes,video,11,24,2018-07-10 13:43:08,21
+158,Determina el tiempo,ejercicio,8,20,2018-07-03 17:34:59,112
+1158,Ángulos entre dos cometas,ejercicio,10,16,2018-08-01 09:15:39,727
+107,Medida de un ángulo en grados,notas,3,11,2018-06-30 22:34:50,30
+108,¿Cómo convertir un ángulo medido en grados a radianes y viceversa?,notas,5,11,2018-06-30 22:52:00,31
+40,Convertir de grados a radianes y viceversa,video,6,11,2018-06-20 19:53:10,3
+87,Convertir de grados a radianes,ejercicio,7,11,2018-06-28 18:35:47,66
+88,Convertir de radianes a grados,ejercicio,8,11,2018-06-28 18:52:36,68
+109,Introducción,notas,1,11,2018-07-01 12:34:15,32
+100,Funciones trigonométricas de números reales,video,2,6,2018-06-28 22:02:32,5
+103,Valor del Seno y Coseno,ejercicio,3,6,2018-06-28 22:04:31,65
+101,Valor de Secante y Cotangente,ejercicio,4,6,2018-06-28 21:26:27,33
+102,Valor de Tangente y Cosecante,ejercicio,5,6,2018-06-28 21:52:29,54
+197,Identifica primos,notas,12,24,2018-07-10 13:48:08,60
+113,Ecuación trigonométrica I,ejercicio,4,13,2018-07-01 18:06:35,84
+112,Simplifica la expresión trigonométrica III,ejercicio,5,12,2018-07-01 17:42:12,83
+115,Ecuación trigonométrica IV,ejercicio,7,13,2018-07-01 18:07:01,86
+1159,Longitud de un lado II,ejercicio,2,152,2018-08-01 10:25:33,728
+139,Evalúa logaritmos,ejercicio,5,2,2018-07-03 11:02:59,100
+198,Verifica si es primo,ejercicio,13,24,2018-07-10 14:09:18,137
+105,Operaciones con naturales,ejercicio,4,3,2018-06-30 04:25:02,81
+104,Propiedad de cerradura,notas,3,3,2018-06-30 04:14:05,28
+120,Propiedad conmutativa,notas,5,3,2018-07-02 04:36:58,34
+121,Propiedad asociativa,notas,6,3,2018-07-02 04:42:13,35
+122,Propiedad distributiva,notas,7,3,2018-07-02 04:53:12,36
+123,Verifica propiedades,ejercicio,8,3,2018-07-02 05:03:00,90
+824,Ejemplo del producto de binomios conjugados,video,8,118,2018-07-24 06:43:54,46
+133,Ubica una Coordenada del Centro,ejercicio,9,18,2018-07-03 00:03:46,95
+114,Ecuación trigonométrica II,ejercicio,5,13,2018-07-01 18:06:47,85
+823,Binomios conjugados,ejercicio,9,118,2018-07-24 06:37:16,492
+199,Descompsición en factores primos,notas,14,24,2018-07-10 19:51:18,61
+181,Puntos en una recta,notas,1,21,2018-07-10 10:02:03,53
+140,"1. Parábola con Vértice en (0,0)",ejercicio,6,19,2018-07-03 11:16:40,101
+149,"2. Parábola con Vértice en (h,k)",ejercicio,10,19,2018-07-03 12:43:26,105
+111,Identidad trigonométrica II,ejercicio,11,12,2018-07-01 17:28:33,82
+613,Ecuación trigonométrica III,ejercicio,6,13,2018-07-18 19:37:09,353
+160,Ejercicio de dinámica de población,ejercicio,15,20,2018-07-03 21:37:25,114
+177,Evalúa término [sucesión aritmética],ejercicio,4,62,2018-07-09 15:46:01,126
+838,Diferencia de cubos,notas,1,116,2018-07-24 11:10:45,291
+136,Determina el exponente,ejercicio,3,2,2018-07-03 09:59:57,98
+144,Sucesiones aritméticas,notas,1,20,2018-07-03 11:21:17,43
+145,Identifica sucesiones aritméticas,ejercicio,2,20,2018-07-03 11:52:17,104
+148,Término general,notas,3,20,2018-07-03 11:54:09,44
+146,Evalúa término ,ejercicio,4,20,2018-07-03 11:52:31,106
+147,Determina la expresión,ejercicio,5,20,2018-07-03 11:52:54,107
+150,Sucesiones aritméticas y modelos,notas,6,20,2018-07-03 14:18:01,45
+151,Ejercicio,ejercicio,7,20,2018-07-03 16:20:37,108
+116,Ecuación trigonométrica V,ejercicio,8,13,2018-07-01 18:07:12,87
+93,Ejemplo de Ecuación trigonométrica I,video,2,13,2018-06-28 23:13:25,2
+152,Sucesiones geométricas,notas,9,20,2018-07-03 16:30:12,46
+870,Gráfica de una función lineal,notas,3,123,2018-07-24 18:40:22,295
+163,Determina el tiempo,ejercicio,16,20,2018-07-04 10:26:52,117
+153,Identifica sucesiones geométricas,ejercicio,10,20,2018-07-03 16:35:11,109
+154,Término general,notas,11,20,2018-07-03 16:45:16,47
+155,Evalúa término,ejercicio,12,20,2018-07-03 17:01:16,110
+156,Determina la expresión,ejercicio,13,20,2018-07-03 17:09:39,111
+157,Modelado con sucesiones geométricas,notas,14,20,2018-07-03 17:20:57,48
+877,Interpretación,notas,4,123,2018-07-24 20:02:45,299
+878,Modelos lineales,notas,1,124,2018-07-25 02:15:09,300
+523,Recta dado Punto de Corte,notas,13,10,2018-07-16 21:00:38,183
+519,Recta dados Dos Puntos,notas,5,10,2018-07-16 21:00:27,179
+134,Circunferencia dados Dos Puntos,ejercicio,11,18,2018-07-03 00:47:42,96
+94,Ejemplo de Ecuación Trigonométrica II,video,3,13,2018-06-28 23:19:09,7
+119,Ejemplos de Caso 1 (ALA o LAA),notas,4,15,2018-07-01 22:16:02,33
+96,Introducción a la del Ley del Coseno,video,3,16,2018-06-28 23:24:46,19
+131,Problemas de aplicación,notas,6,16,2018-07-02 18:04:42,40
+132,Ejemplos (Caso 3: LAL y Caso 4: LLL),notas,2,16,2018-07-02 23:53:06,41
+879,Interés simple,notas,2,124,2018-07-25 02:54:39,301
+884,Poblema de temperatura,ejercicio,7,124,2018-07-25 03:48:09,533
+885,Identifica funciones lineales,ejercicio,1,125,2018-07-25 04:10:07,534
+164,Descripción,notas,2,21,2018-07-04 10:38:02,49
+168,Enteros positivos y enteros negativos,notas,3,21,2018-07-04 17:18:43,50
+169,Indentifica enteros,ejercicio,4,21,2018-07-04 17:21:04,120
+172,Resta de enteros,notas,5,21,2018-07-05 10:39:45,51
+173,Identifica enteros negativos,ejercicio,6,21,2018-07-05 10:59:13,122
+175,¿La resta es equivalente a una suma?,notas,8,21,2018-07-05 12:19:37,52
+182,Suma y resta de enteros,ejercicio,9,21,2018-07-10 11:18:33,130
+174,Evalúa la diferencia,ejercicio,7,21,2018-07-05 12:15:39,123
+245,Ecuación lineal,notas,1,60,2018-07-11 19:25:23,77
+208,Definición,notas,1,56,2018-07-11 04:41:12,64
+209,Identifica racionales,ejercicio,2,56,2018-07-11 04:59:21,141
+211,Fracciones equivalentes,notas,3,56,2018-07-11 05:11:37,66
+210,Suma y resta de racionales,notas,7,56,2018-07-11 05:05:12,65
+215,Simplifica fracciones,ejercicio,6,56,2018-07-11 11:34:06,143
+246,Solución de ecuaciones lineales,video,2,60,2018-07-11 19:31:23,27
+216,Suma fracciones,ejercicio,9,56,2018-07-11 11:37:58,144
+217,Resta fracciones,ejercicio,10,56,2018-07-11 11:45:18,145
+219,Multiplica fracciones,ejercicio,12,56,2018-07-11 11:55:53,146
+218,Multiplicación de fracciones,notas,11,56,2018-07-11 11:49:54,68
+220,División de fracciones,notas,13,56,2018-07-11 12:01:07,69
+221,División de fracciones,video,14,56,2018-07-11 12:04:51,26
+222,Divide fracciones,ejercicio,15,56,2018-07-11 12:07:58,147
+223,Propiedades,notas,16,56,2018-07-11 12:12:55,70
+224,Inverso aditivo,ejercicio,17,56,2018-07-11 12:34:48,148
+183,Divisibilidad,notas,1,24,2018-07-10 11:41:28,54
+225,inverso multiplicativo,ejercicio,18,56,2018-07-11 12:38:14,149
+185,Divisibilidad por 2,notas,2,24,2018-07-10 11:54:16,56
+226,Jerarquía de operaciones,notas,19,56,2018-07-11 13:08:09,71
+227,Aplica jerarquía de operaciones,ejercicio,20,56,2018-07-11 13:23:10,150
+190,Identifica múltiplos de 2,ejercicio,3,24,2018-07-10 12:55:30,133
+187,Divisibilidad por 3,notas,4,24,2018-07-10 12:42:05,57
+191,Identifica múltiplos de 3,ejercicio,5,24,2018-07-10 12:56:08,134
+184,Primos,notas,10,24,2018-07-10 11:53:37,55
+200,Descomposición en factores primos,video,15,24,2018-07-10 20:08:21,22
+201,Factoriza un número compuesto,ejercicio,16,24,2018-07-10 20:15:52,138
+202,Máximo común divisor,notas,17,24,2018-07-10 20:17:49,62
+248,Resuelve una ecuación lineal,ejercicio,3,60,2018-07-11 19:38:21,163
+1403,2,ejercicio,2,190,2019-11-04 13:06:43,<NULL>
+203,Máximo común divisor,video,18,24,2018-07-10 20:26:10,23
+204,Evalúa el MCD,ejercicio,19,24,2018-07-10 20:30:17,139
+205,Mínimo común múltiplo,notas,20,24,2018-07-10 20:34:09,63
+206,Mínimo común múltiplo,video,21,24,2018-07-10 20:39:16,24
+207,Evalúa el mcm,ejercicio,22,24,2018-07-10 20:41:35,140
+249,Multiplicación y regla de signos,notas,10,21,2018-07-12 11:27:10,78
+250,Multiplica enteros,ejercicio,11,21,2018-07-12 12:15:22,164
+228,Reglas de exponentes,notas,1,59,2018-07-11 13:35:02,72
+230,Multiplica potencias,ejercicio,2,59,2018-07-11 13:59:16,152
+251,Definición,notas,1,67,2018-07-12 12:25:51,79
+231,Divide potencias,ejercicio,3,59,2018-07-11 14:18:02,153
+232,Simplifica potencias,ejercicio,4,59,2018-07-11 14:53:51,154
+233,Radicales,notas,5,59,2018-07-11 15:13:33,73
+242,Evalúa término de una sucesión aritmética,ejercicio,2,66,2018-07-11 18:25:47,160
+244,Velocidad,ejercicio,3,66,2018-07-11 18:45:50,162
+252,Evalúa porcentaje,ejercicio,3,67,2018-07-12 13:09:11,165
+253,Porcentajes,video,2,67,2018-07-12 13:23:12,28
+254,Sucesiones geométricas [continuación],notas,4,67,2018-07-12 13:25:22,80
+255,Ejercicio sucesiones geométricas,ejercicio,5,67,2018-07-12 13:49:56,166
+256,Razones,notas,6,67,2018-07-13 14:00:14,81
+257,Identifica la razón,ejercicio,7,67,2018-07-13 14:25:13,167
+258,Proporciones,notas,8,67,2018-07-13 14:38:18,82
+259,Plantea una proporción,ejercicio,9,67,2018-07-14 03:30:33,168
+275,Operaciones con números naturales,notas,8,68,2018-07-14 11:26:06,90
+271,Identifica números naturales,ejercicio,1,62,2018-07-14 10:58:04,174
+263,Identifica el índice [sucesión aritmética],ejercicio,6,62,2018-07-14 05:21:51,172
+276,Identifica números enteros,ejercicio,1,63,2018-07-14 11:41:42,177
+277,Identifica múltiplos de 3,ejercicio,4,63,2018-07-14 11:44:10,178
+278,Identifica múltiplos de 7,ejercicio,5,63,2018-07-14 11:44:46,179
+274,Resuelve ecuación lineal,notas,1,68,2018-07-14 11:21:52,89
+267,Fórmula [sucesión aritmética],notas,3,68,2018-07-14 10:14:07,85
+265,Calcula término [sucesión aritmética],notas,2,68,2018-07-14 05:44:34,83
+268,Determina el índice del término [sucesión aritmética],notas,4,68,2018-07-14 10:23:41,86
+266,Calcula término [sucesión geométrica],notas,5,68,2018-07-14 05:50:34,84
+279,Identifica múltiplos de 11,ejercicio,6,63,2018-07-14 11:45:36,180
+280,Identifica números primos,ejercicio,7,63,2018-07-14 11:47:35,181
+281,Encuentra el siguiente primo,ejercicio,8,63,2018-07-14 11:51:08,182
+269,Fórmula [sucesión geométrica],notas,6,68,2018-07-14 10:40:37,87
+270,Determina el índice del término [sucesión geométrica],notas,7,68,2018-07-14 10:49:40,88
+282,Descomposición en factores primos,ejercicio,9,63,2018-07-14 11:55:20,183
+283,Máximo común divisor,ejercicio,10,63,2018-07-14 11:56:47,184
+514,Razón dado un Punto,notas,6,9,2018-07-16 15:19:45,174
+516,Ubica el Poste de Luz,notas,9,9,2018-07-16 15:19:50,175
+520,Evalúa Puntos,notas,7,10,2018-07-16 21:00:30,180
+513,Punto dada una Razón,notas,4,9,2018-07-16 15:19:41,173
+521,Área de un Lote,notas,9,10,2018-07-16 21:00:32,181
+665,Desarrolla binomio a la cuarta potencia,ejercicio,14,95,2018-07-19 11:30:46,387
+668,Multiplica polinomios,ejercicio,2,100,2018-07-19 11:48:43,389
+673,Monomio por polinomio 2,ejercicio,2,96,2018-07-19 12:27:59,392
+756,Ejemplo 1,notas,2,108,2018-07-23 12:27:12,274
+307,Ecuación lineal 4,ejercicio,9,64,2018-07-14 16:40:53,201
+308,Ecuación lineal 5,ejercicio,10,64,2018-07-14 16:42:07,202
+287,Operaciones con números naturales,ejercicio,2,62,2018-07-14 12:08:19,188
+273,Determina el exponente,ejercicio,3,62,2018-07-14 11:15:35,176
+179,Fórmula [sucesión aritmética],ejercicio,5,62,2018-07-09 15:50:56,128
+178,Evalúa término [sucesión geométrica],ejercicio,7,62,2018-07-09 15:48:00,127
+180,Fórmula [sucesión geométrica],ejercicio,8,62,2018-07-09 15:52:06,129
+264,Identifica el índice [sucesión geométrica],ejercicio,9,62,2018-07-14 05:28:24,173
+261,Modelo 1,ejercicio,10,62,2018-07-14 04:51:40,170
+262,Modelo 2,ejercicio,11,62,2018-07-14 04:56:39,171
+309,Ecuación lineal 6,ejercicio,11,64,2018-07-14 16:42:52,203
+311,Ecuación lineal 7,ejercicio,12,64,2018-07-14 16:43:41,204
+312,Porcentaje,ejercicio,13,64,2018-07-14 16:45:40,205
+313,Proporción,ejercicio,14,64,2018-07-14 16:58:12,206
+314,Operaciones con fracciones,notas,1,70,2018-07-14 17:21:55,98
+286,Operaciones con números enteros,ejercicio,2,63,2018-07-14 12:05:43,187
+288,Solución de ecuación lineal,ejercicio,3,63,2018-07-14 12:30:03,189
+284,Mínimo común múltiplo,ejercicio,11,63,2018-07-14 11:57:53,185
+290,Sucesión aritmética 1,ejercicio,12,63,2018-07-14 12:49:24,191
+289,Sucesión aritmética 2,ejercicio,13,63,2018-07-14 12:32:54,190
+291,Máximo índice,ejercicio,14,63,2018-07-14 13:01:53,192
+315,Simplifica fracción,notas,5,70,2018-07-14 17:34:56,99
+316,Ecuación lineal 1,notas,6,70,2018-07-14 17:39:31,100
+293,Múltiplos de 3,notas,1,69,2018-07-14 13:30:07,92
+294,Múltiplos de 7,notas,2,69,2018-07-14 13:34:26,93
+295,Múltiplos de 11,notas,3,69,2018-07-14 13:56:30,94
+292,Decomposición en factores primos,notas,4,69,2018-07-14 13:04:37,91
+296,¿Es primo?,notas,5,69,2018-07-14 14:01:35,95
+297,Máximo común divisor,notas,6,69,2018-07-14 14:10:06,96
+298,Mínimo común múltiplo,notas,7,69,2018-07-14 14:14:45,97
+1156,Distancia entre dos autos,ejercicio,8,16,2018-08-01 08:13:58,725
+299,Identifica los números racionales,ejercicio,1,64,2018-07-14 16:07:18,193
+300,Simplifica fracciones,ejercicio,2,64,2018-07-14 16:12:25,194
+301,Operaciones con racionales 1,ejercicio,3,64,2018-07-14 16:17:49,195
+302,Operaciones con racionales 2,ejercicio,4,64,2018-07-14 16:19:42,196
+303,Simplifica radical,ejercicio,5,64,2018-07-14 16:24:02,197
+304,Ecuación lineal 1,ejercicio,6,64,2018-07-14 16:27:11,198
+305,Ecuación lineal 2,ejercicio,7,64,2018-07-14 16:28:35,199
+306,Ecuación lineal 3,ejercicio,8,64,2018-07-14 16:39:16,200
+318,Definición,notas,9,71,2018-06-13 08:17:13,102
+319,Identifica a los naturales,ejercicio,10,71,2018-06-13 08:24:53,207
+320,Propiedad de cerradura,notas,11,71,2018-06-30 04:14:05,103
+321,Operaciones con naturales,ejercicio,12,71,2018-06-30 04:25:02,208
+322,Propiedad conmutativa,notas,13,71,2018-07-02 04:36:58,104
+323,Propiedad asociativa,notas,14,71,2018-07-02 04:42:13,105
+324,Propiedad distributiva,notas,15,71,2018-07-02 04:53:12,106
+325,Verifica propiedades,ejercicio,16,71,2018-07-02 05:03:00,209
+326,Potencias,notas,6,72,2018-07-02 10:57:34,107
+327,Evalúa potencia,ejercicio,7,72,2018-07-02 11:07:46,210
+328,Determina el exponente,ejercicio,8,72,2018-07-03 09:59:57,211
+329,Logaritmos,notas,9,72,2018-07-03 10:03:42,108
+330,Evalúa logaritmos,ejercicio,10,72,2018-07-03 11:02:59,212
+331,Sucesiones aritméticas,notas,17,73,2018-07-03 11:21:17,109
+332,Identifica sucesiones aritméticas,ejercicio,18,73,2018-07-03 11:52:17,213
+333,Término general,notas,19,73,2018-07-03 11:54:09,110
+334,Evalúa término ,ejercicio,20,73,2018-07-03 11:52:31,214
+335,Determina la expresión,ejercicio,21,73,2018-07-03 11:52:54,215
+336,Sucesiones aritméticas y modelos,notas,22,73,2018-07-03 14:18:01,111
+337,Ejercicio,ejercicio,23,73,2018-07-03 16:20:37,216
+338,Determina el tiempo,ejercicio,24,73,2018-07-03 17:34:59,217
+339,Sucesiones geométricas,notas,25,73,2018-07-03 16:30:12,112
+340,Identifica sucesiones geométricas,ejercicio,26,73,2018-07-03 16:35:11,218
+341,Término general,notas,27,73,2018-07-03 16:45:16,113
+342,Evalúa término,ejercicio,28,73,2018-07-03 17:01:16,219
+825,Cuadrado de binomios,ejercicio,11,118,2018-07-24 06:50:32,493
+896,Monomio común,ejercicio,2,126,2018-07-25 08:29:00,545
+35,Razones trigonométricas,video,2,5,2018-06-20 20:14:16,8
+517,¿Dónde está Nicolás?,notas,13,9,2018-07-16 15:19:58,177
+317,Ecuación lineal 2,notas,7,70,2018-07-14 17:45:24,101
+529,Razón Positiva,notas,2,9,2018-07-16 23:51:37,189
+530,Razón Negativa,notas,3,9,2018-07-16 23:52:50,190
+48,"Funciones trigonométricas de 30°, 45° y 60°",video,3,5,2018-06-20 21:53:27,9
+839,Factoriza diferencia de cubos,ejercicio,2,116,2018-07-24 11:17:48,502
+518,Punto Medio,notas,8,9,2018-07-16 15:32:17,178
+871,Pares ordenados,notas,3,122,2018-07-24 18:41:24,296
+906,Identifica la solución,ejercicio,3,127,2018-07-25 10:26:30,553
+763,Ley del Seno,notas,2,15,2018-07-23 17:33:10,277
+948,Suma de polinomios,ejercicio,5,134,2018-07-25 20:12:34,584
+940,Torre inclinada,ejercicio,14,15,2018-07-25 18:22:07,578
+960,Definición,notas,1,132,2018-07-26 03:38:51,312
+961,Polinomios ordenados,notas,2,132,2018-07-26 03:48:35,313
+962,Ordena polinomios,ejercicio,3,132,2018-07-26 04:03:09,590
+968,Test,ejercicio,2,139,2018-07-26 07:44:21,594
+37,Aprende las funciones trigonométricas de algunos ángulos importantes,video,4,5,2018-06-20 21:57:09,11
+938,Ubica un Punto Equidistante,ejercicio,5,130,2018-07-25 15:19:31,576
+343,Determina la expresión,ejercicio,29,73,2018-07-03 17:09:39,220
+344,Modelado con sucesiones geométricas,notas,30,73,2018-07-03 17:20:57,114
+345,Ejercicio de dinámica de población,ejercicio,31,73,2018-07-03 21:37:25,221
+346,Determina el tiempo,ejercicio,32,73,2018-07-04 10:26:52,222
+347,Resuelve ecuación lineal,notas,9,74,2018-07-14 11:21:52,115
+348,Calcula término [sucesión aritmética],notas,10,74,2018-07-14 05:44:34,116
+349,Fórmula [sucesión aritmética],notas,11,74,2018-07-14 10:14:07,117
+350,Determina el índice del término [sucesión aritmética],notas,12,74,2018-07-14 10:23:41,118
+351,Calcula término [sucesión geométrica],notas,13,74,2018-07-14 05:50:34,119
+352,Fórmula [sucesión geométrica],notas,14,74,2018-07-14 10:40:37,120
+353,Determina el índice del término [sucesión geométrica],notas,15,74,2018-07-14 10:49:40,121
+354,Operaciones con números naturales,notas,16,74,2018-07-14 11:26:06,122
+355,Identifica números naturales,ejercicio,12,75,2018-07-14 10:58:04,223
+356,Operaciones con números naturales,ejercicio,13,75,2018-07-14 12:08:19,224
+357,Determina el exponente,ejercicio,14,75,2018-07-14 11:15:35,225
+358,Evalúa término [sucesión aritmética],ejercicio,15,75,2018-07-09 15:46:01,226
+359,Fórmula [sucesión aritmética],ejercicio,16,75,2018-07-09 15:50:56,227
+360,Identifica el índice [sucesión aritmética],ejercicio,17,75,2018-07-14 05:21:51,228
+361,Evalúa término [sucesión geométrica],ejercicio,18,75,2018-07-09 15:48:00,229
+362,Fórmula [sucesión geométrica],ejercicio,19,75,2018-07-09 15:52:06,230
+363,Identifica el índice [sucesión geométrica],ejercicio,20,75,2018-07-14 05:28:24,231
+364,Modelo 1,ejercicio,21,75,2018-07-14 04:51:40,232
+365,Modelo 2,ejercicio,22,75,2018-07-14 04:56:39,233
+366,Puntos en una recta,notas,12,76,2018-07-10 10:02:03,123
+367,Descripción,notas,13,76,2018-07-04 10:38:02,124
+368,Enteros positivos y enteros negativos,notas,14,76,2018-07-04 17:18:43,125
+369,Indentifica enteros,ejercicio,15,76,2018-07-04 17:21:04,234
+370,Resta de enteros,notas,16,76,2018-07-05 10:39:45,126
+371,Identifica enteros negativos,ejercicio,17,76,2018-07-05 10:59:13,235
+372,Evalúa la diferencia,ejercicio,18,76,2018-07-05 12:15:39,236
+373,¿La resta es equivalente a una suma?,notas,19,76,2018-07-05 12:19:37,127
+374,Suma y resta de enteros,ejercicio,20,76,2018-07-10 11:18:33,237
+375,Multiplicación y regla de signos,notas,21,76,2018-07-12 11:27:10,128
+376,Multiplica enteros,ejercicio,22,76,2018-07-12 12:15:22,238
+377,Divisibilidad,notas,23,77,2018-07-10 11:41:28,129
+378,Divisibilidad por 2,notas,24,77,2018-07-10 11:54:16,130
+379,Identifica múltiplos de 2,ejercicio,25,77,2018-07-10 12:55:30,239
+380,Divisibilidad por 3,notas,26,77,2018-07-10 12:42:05,131
+381,Identifica múltiplos de 3,ejercicio,27,77,2018-07-10 12:56:08,240
+382,Divisibilidad por 7,notas,28,77,2018-07-10 13:04:02,132
+383,Identifica múltiplos de 7,ejercicio,29,77,2018-07-10 13:20:31,241
+384,Divisibilidad por 11,notas,30,77,2018-07-10 13:25:30,133
+385,Identifica múltiplos de 11,ejercicio,31,77,2018-07-10 13:39:21,242
+386,Primos,notas,32,77,2018-07-10 11:53:37,134
+387,Criba de Eratóstenes,video,33,77,2018-07-10 13:43:08,29
+388,Identifica primos,notas,34,77,2018-07-10 13:48:08,135
+389,Verifica si es primo,ejercicio,35,77,2018-07-10 14:09:18,243
+390,Descompsición en factores primos,notas,36,77,2018-07-10 19:51:18,136
+391,Descomposición en factores primos,video,37,77,2018-07-10 20:08:21,30
+392,Factoriza un número compuesto,ejercicio,38,77,2018-07-10 20:15:52,244
+393,Máximo común divisor,notas,39,77,2018-07-10 20:17:49,137
+394,Máximo común divisor,video,40,77,2018-07-10 20:26:10,31
+395,Evalúa el MCD,ejercicio,41,77,2018-07-10 20:30:17,245
+396,Mínimo común múltiplo,notas,42,77,2018-07-10 20:34:09,138
+397,Mínimo común múltiplo,video,43,77,2018-07-10 20:39:16,32
+398,Evalúa el mcm,ejercicio,44,77,2018-07-10 20:41:35,246
+783,Trinomio cuadrado perfecto,ejercicio,6,110,2018-07-23 20:55:55,467
+784,Factorización general 1,ejercicio,7,110,2018-07-23 21:00:42,468
+785,Factorización general 2,ejercicio,8,110,2018-07-23 21:02:57,469
+851,Factorización en binomios al cubo,notas,1,121,2018-07-24 12:33:51,292
+826,Ejemplo del cuadrado de un binomio,video,10,118,2018-07-24 07:00:02,47
+1161,Altura del globo,ejercicio,6,152,2018-08-01 10:58:55,730
+41,Perpendicular a una Recta y Mínima Distancia,ejercicio,12,14,2018-06-24 10:53:24,49
+909,Método de suma y resta,notas,3,128,2018-07-25 11:03:27,307
+923,Sistema de ecuaciones 4,ejercicio,4,131,2018-07-25 13:04:49,563
+924,Sistema de ecuaciones 5,ejercicio,5,131,2018-07-25 13:05:34,564
+872,Gráfica de una función,notas,5,122,2018-07-24 19:08:07,297
+907,Método de sustitución,notas,1,128,2018-07-25 10:36:23,306
+913,Distancia entre Puntos,ejercicio,1,130,2018-07-25 12:13:06,556
+908,Resuelve sistema mediante sustitución,ejercicio,2,128,2018-07-25 10:56:25,554
+1133,Cálculo de un ángulo,ejercicio,15,15,2018-07-30 08:20:53,715
+99,Longitud de un lado I,ejercicio,7,15,2018-06-28 23:31:20,77
+159,Longitud de un lado II,ejercicio,8,15,2018-07-03 21:31:40,113
+161,Longitud de un lado ,ejercicio,4,16,2018-07-04 07:32:46,115
+897,Diferencia de cuadrados,ejercicio,4,126,2018-07-25 08:44:50,546
+898,Trinomio cuadrado perfecto,ejercicio,8,126,2018-07-25 08:45:45,547
+900,Binomios cúbicos,ejercicio,10,126,2018-07-25 08:49:59,549
+946,Grado de polinomio 3,ejercicio,3,134,2018-07-25 20:09:42,582
+949,Multiplicación de polinomios,ejercicio,6,134,2018-07-25 20:13:31,585
+933,Longitud hasta el Punto Medio,ejercicio,9,130,2018-07-25 13:38:46,572
+1074,Identidad de adición y sustracción II,ejercicio,17,12,2018-07-29 13:07:19,670
+399,Diferencia negativa,notas,4,78,2018-07-11 17:59:12,139
+400,Evalúa término de una sucesión aritmética,ejercicio,5,78,2018-07-11 18:25:47,247
+401,Velocidad,ejercicio,6,78,2018-07-11 18:45:50,248
+402,Múltiplos de 3,notas,8,79,2018-07-14 13:30:07,140
+403,Múltiplos de 7,notas,9,79,2018-07-14 13:34:26,141
+404,Múltiplos de 11,notas,10,79,2018-07-14 13:56:30,142
+405,Decomposición en factores primos,notas,11,79,2018-07-14 13:04:37,143
+406,¿Es primo?,notas,12,79,2018-07-14 14:01:35,144
+407,Máximo común divisor,notas,13,79,2018-07-14 14:10:06,145
+408,Mínimo común múltiplo,notas,14,79,2018-07-14 14:14:45,146
+409,Identifica números enteros,ejercicio,15,80,2018-07-14 11:41:42,249
+410,Operaciones con números enteros,ejercicio,16,80,2018-07-14 12:05:43,250
+411,Solución de ecuación lineal,ejercicio,17,80,2018-07-14 12:30:03,251
+412,Identifica múltiplos de 3,ejercicio,18,80,2018-07-14 11:44:10,252
+413,Identifica múltiplos de 7,ejercicio,19,80,2018-07-14 11:44:46,253
+414,Identifica múltiplos de 11,ejercicio,20,80,2018-07-14 11:45:36,254
+415,Identifica números primos,ejercicio,21,80,2018-07-14 11:47:35,255
+416,Encuentra el siguiente primo,ejercicio,22,80,2018-07-14 11:51:08,256
+417,Descomposición en factores primos,ejercicio,23,80,2018-07-14 11:55:20,257
+418,Máximo común divisor,ejercicio,24,80,2018-07-14 11:56:47,258
+419,Mínimo común múltiplo,ejercicio,25,80,2018-07-14 11:57:53,259
+420,Sucesión aritmética 1,ejercicio,26,80,2018-07-14 12:49:24,260
+421,Sucesión aritmética 2,ejercicio,27,80,2018-07-14 12:32:54,261
+422,Máximo índice,ejercicio,28,80,2018-07-14 13:01:53,262
+423,Definición,notas,21,81,2018-07-11 04:41:12,147
+424,Identifica racionales,ejercicio,22,81,2018-07-11 04:59:21,263
+425,Fracciones equivalentes,notas,23,81,2018-07-11 05:11:37,148
+426,Identifica fracciones equivalentes,ejercicio,24,81,2018-07-11 05:20:27,264
+427,Simplificación de fracciones,notas,25,81,2018-07-11 05:31:46,149
+428,Simplifica fracciones,ejercicio,26,81,2018-07-11 11:34:06,265
+429,Suma y resta de racionales,notas,27,81,2018-07-11 05:05:12,150
+430,Suma y resta de fracciones,video,28,81,2018-07-11 10:54:55,33
+431,Suma fracciones,ejercicio,29,81,2018-07-11 11:37:58,266
+432,Resta fracciones,ejercicio,30,81,2018-07-11 11:45:18,267
+433,Multiplicación de fracciones,notas,31,81,2018-07-11 11:49:54,151
+434,Multiplica fracciones,ejercicio,32,81,2018-07-11 11:55:53,268
+435,División de fracciones,notas,33,81,2018-07-11 12:01:07,152
+436,División de fracciones,video,34,81,2018-07-11 12:04:51,34
+437,Divide fracciones,ejercicio,35,81,2018-07-11 12:07:58,269
+438,Propiedades,notas,36,81,2018-07-11 12:12:55,153
+439,Inverso aditivo,ejercicio,37,81,2018-07-11 12:34:48,270
+440,inverso multiplicativo,ejercicio,38,81,2018-07-11 12:38:14,271
+441,Jerarquía de operaciones,notas,39,81,2018-07-11 13:08:09,154
+442,Aplica jerarquía de operaciones,ejercicio,40,81,2018-07-11 13:23:10,272
+443,Reglas de exponentes,notas,9,82,2018-07-11 13:35:02,155
+444,Multiplica potencias,ejercicio,10,82,2018-07-11 13:59:16,273
+445,Divide potencias,ejercicio,11,82,2018-07-11 14:18:02,274
+446,Simplifica potencias,ejercicio,12,82,2018-07-11 14:53:51,275
+447,Radicales,notas,13,82,2018-07-11 15:13:33,156
+448,Evalúa radical,ejercicio,14,82,2018-07-11 17:08:54,276
+449,Simplifcación de radicales,notas,15,82,2018-07-11 17:35:14,157
+450,Simplifica radicales,ejercicio,16,82,2018-07-11 17:32:58,277
+451,Ecuación lineal,notas,4,83,2018-07-11 19:25:23,158
+452,Solución de ecuaciones lineales,video,5,83,2018-07-11 19:31:23,35
+453,Resuelve una ecuación lineal,ejercicio,6,83,2018-07-11 19:38:21,278
+787,Factorización general 3,ejercicio,9,110,2018-07-23 21:05:00,470
+915,Área de un Triángulo,ejercicio,2,130,2018-07-25 12:23:02,557
+855,Trinomio cuadrado perfecto,ejercicio,3,120,2018-07-24 13:25:48,516
+856,Binomios con término común,ejercicio,4,120,2018-07-24 13:26:34,517
+829,Ejemplo del cuadrado de un trinomio,video,12,118,2018-07-24 07:23:03,48
+1162,Longitud de la torre,ejercicio,7,152,2018-08-01 11:21:07,731
+857,Binomios al cubo,ejercicio,5,120,2018-07-24 13:27:28,518
+852,Factoriza en binomios al cubo,ejercicio,2,121,2018-07-24 12:46:12,513
+917,Vértice Triángulo Equilátero,ejercicio,4,130,2018-07-25 12:31:40,558
+865,Definición,notas,1,122,2018-07-24 13:50:27,293
+910,Resuelve sistema por suma y resta,ejercicio,4,128,2018-07-25 11:19:22,555
+873,Identifica pares ordenados,ejercicio,4,122,2018-07-24 19:21:39,529
+912,Problema 1,notas,2,129,2018-07-25 11:29:03,309
+951,Valor de un ángulo,ejercicio,5,16,2018-07-25 22:32:24,587
+921,Sistema de ecuaciones 2,ejercicio,2,131,2018-07-25 13:02:35,561
+922,Sistema de ecuaciones 3,ejercicio,3,131,2018-07-25 13:02:58,562
+1169,¿Cuántas caras tiene?,ejercicio,15,153,2018-08-01 23:04:49,736
+950,División de polinomios,ejercicio,7,134,2018-07-25 20:14:35,586
+941,Longitud del tunel,ejercicio,7,16,2018-07-25 19:54:57,579
+454,Definición,notas,1,84,2018-07-12 12:25:51,159
+1201,Distancia entre Puntos,ejercicio,1,157,2018-08-03 10:32:22,767
+455,Porcentajes,video,2,84,2018-07-12 13:23:12,36
+957,Suma,notas,1,133,2018-07-26 03:34:40,314
+963,Suma polinomios,ejercicio,2,133,2018-07-26 04:26:20,591
+958,Multiplicación,notas,3,133,2018-07-26 03:34:57,315
+899,Binomios con término común,ejercicio,6,126,2018-07-25 08:47:41,548
+901,Diferencia de cubos,ejercicio,12,126,2018-07-25 08:51:54,550
+931,Punto dada una Razón,ejercicio,6,130,2018-07-25 13:20:41,570
+463,Operaciones con fracciones,notas,5,85,2018-07-14 17:21:55,163
+464,Simplifica fracción,notas,6,85,2018-07-14 17:34:56,164
+465,Ecuación lineal 1,notas,7,85,2018-07-14 17:39:31,165
+466,Ecuación lineal 2,notas,8,85,2018-07-14 17:45:24,166
+467,Identifica los números racionales,ejercicio,15,86,2018-07-14 16:07:18,283
+468,Simplifica fracciones,ejercicio,16,86,2018-07-14 16:12:25,284
+469,Operaciones con racionales 1,ejercicio,17,86,2018-07-14 16:17:49,285
+470,Operaciones con racionales 2,ejercicio,18,86,2018-07-14 16:19:42,286
+471,Simplifica radical,ejercicio,19,86,2018-07-14 16:24:02,287
+472,Ecuación lineal 1,ejercicio,20,86,2018-07-14 16:27:11,288
+473,Ecuación lineal 2,ejercicio,21,86,2018-07-14 16:28:35,289
+474,Ecuación lineal 3,ejercicio,22,86,2018-07-14 16:39:16,290
+475,Ecuación lineal 4,ejercicio,23,86,2018-07-14 16:40:53,291
+476,Ecuación lineal 5,ejercicio,24,86,2018-07-14 16:42:07,292
+477,Ecuación lineal 6,ejercicio,25,86,2018-07-14 16:42:52,293
+478,Ecuación lineal 7,ejercicio,26,86,2018-07-14 16:43:41,294
+479,Porcentaje,ejercicio,27,86,2018-07-14 16:45:40,295
+480,Proporción,ejercicio,28,86,2018-07-14 16:58:12,296
+788,Factorización general 4,ejercicio,10,110,2018-07-23 21:05:35,471
+827,Trinomios al cuadrado,ejercicio,13,118,2018-07-24 07:06:02,494
+493,Línea recta,ejercicio,12,87,2018-07-15 11:08:35,311
+494,Circunferencia,ejercicio,13,87,2018-07-15 11:08:46,312
+495,Parábola,ejercicio,14,87,2018-07-15 11:08:59,313
+496,Radianes,ejercicio,15,87,2018-07-15 11:09:13,314
+1202,Punto Equidistante,ejercicio,2,157,2018-08-03 10:43:12,768
+1261,Resnick02.07-023,ejercicio,1,181,2019-03-12 18:30:58,810
+1163,Cálculo de un ángulo,ejercicio,9,152,2018-08-01 11:27:10,732
+531, Rectas Paralelas,notas,2,14,2018-07-17 00:21:18,191
+828,Binomio al cubo,ejercicio,15,118,2018-07-24 07:08:03,495
+9,¿Dónde está Nicolás?,ejercicio,14,9,2018-06-19 21:54:08,64
+515,Vértices de un Triángulo,notas,11,9,2018-07-16 15:19:48,176
+522,Punto de Corte,notas,11,10,2018-07-16 21:00:36,182
+498,Función trigonométrica,ejercicio,16,87,2018-07-15 11:09:52,317
+504,Problema geométrico,ejercicio,17,87,2018-07-15 16:21:55,318
+532,Calle Paralela que pasa por un Punto,notas,3,14,2018-07-17 00:24:32,192
+533,Definición Rectas Perpendiculares,notas,4,14,2018-07-17 00:27:07,193
+534,Rectas Perpendiculares,notas,5,14,2018-07-17 00:30:18,194
+535,Calle Perpendicular que pasa por un Punto,notas,6,14,2018-07-17 00:32:21,195
+501,Jerarquía de operaciones,ejercicio,1,87,2018-07-15 11:33:19,299
+482,Operaciones con fracciones,ejercicio,2,87,2018-07-15 11:05:55,300
+483,Porcentaje,ejercicio,3,87,2018-07-15 11:06:05,301
+484,Proporción,ejercicio,4,87,2018-07-15 11:06:16,302
+488,Potencias,ejercicio,5,87,2018-07-15 11:07:18,303
+499,Máximo común divisor,ejercicio,6,87,2018-07-15 11:11:01,304
+487,Ecuación lineal,ejercicio,7,87,2018-07-15 11:07:03,305
+489,Números complejos,ejercicio,8,87,2018-07-15 11:07:32,306
+537,Paralela dado un Corte con un Eje,notas,9,14,2018-07-17 00:42:19,197
+538,Perpendicular a una Recta y Distancia Punto a Recta,notas,11,14,2018-07-17 00:42:22,198
+539,Corte entre Perpendiculares,notas,13,14,2018-07-17 00:49:01,199
+1264,Resnick02.06-018b,ejercicio,2,182,2019-03-12 21:12:54,812
+490,Producto notable,ejercicio,9,87,2018-07-15 11:07:48,307
+524,Ecuación Punto-Pendiente,notas,2,10,2018-07-16 22:35:33,184
+525,Ecuación Pendiente-Intercepto,notas,3,10,2018-07-16 22:35:36,185
+526,Ecuación General de la Recta,notas,4,10,2018-07-16 22:35:40,186
+491,Factorización,ejercicio,10,87,2018-07-15 11:08:02,308
+502,Distancia entre puntos,ejercicio,11,87,2018-07-15 14:18:35,310
+1265,Resnick02.06-018c,ejercicio,3,182,2019-03-12 21:17:37,813
+1266,Resnick02.06-018d,ejercicio,4,182,2019-03-12 21:24:51,814
+1267,Resnick02.06-018e,ejercicio,5,182,2019-03-12 21:27:53,815
+507,Notación y Fórmula de la Distancia,notas,2,8,2018-07-16 13:57:18,167
+1268,Resnick02.06-018f,ejercicio,6,182,2019-03-12 21:33:48,816
+1269,Resnick02.06-018g,ejercicio,7,182,2019-03-12 21:46:53,817
+541,La Circunferencia como Cónica,notas,1,17,2018-07-17 01:28:51,201
+1270,Resnick02.06-018h,ejercicio,8,182,2019-03-12 21:48:41,818
+457,Sucesiones geométricas [continuación],notas,4,84,2018-07-12 13:25:22,160
+853,Monomio común,ejercicio,1,120,2018-07-24 13:22:50,514
+542,Circunferencias Tangentes a los Ejes,notas,3,17,2018-07-17 01:29:19,202
+543,Encuentra el Centro y el Radio,notas,4,17,2018-07-17 01:37:52,203
+544,Circunferencia dados Centro y Radio,notas,6,17,2018-07-17 01:38:07,204
+545,Circunferencia dados Centro y Punto,notas,8,17,2018-07-17 01:38:30,205
+546,Circunferencia dado un Diámetro,notas,10,17,2018-07-17 01:38:50,206
+547,Circunferencias Tangentes a los Ejes,notas,12,17,2018-07-17 01:39:07,207
+550,Encuentra Centro y Radio dada Ecuación,notas,4,18,2018-07-17 02:07:15,210
+551,Circunferencia dados Tres Puntos,notas,6,18,2018-07-17 02:07:44,211
+548,Ecuación General dados Centro y Radio,notas,2,18,2018-07-17 02:02:05,208
+549,Identifica Centro y radio,notas,3,18,2018-07-17 02:03:03,209
+854,Diferencia de cuadrados,ejercicio,2,120,2018-07-24 13:23:35,515
+1262,Resnick02.06-018a,ejercicio,1,182,2019-03-12 21:03:39,811
+858,Diferencia de cubos,ejercicio,6,120,2018-07-24 13:28:28,519
+596,Aplicar inverso aditivo,notas,1,92,2018-07-18 09:18:10,228
+598,Errores al aplicar inverso aditivo,notas,2,92,2018-07-18 09:51:00,229
+117,Ecuación trigonométrica VI,ejercicio,9,13,2018-07-01 18:07:22,88
+552,Ubica una Coordenada del Centro,notas,8,18,2018-07-17 02:08:14,212
+553,Circunferencia dados Dos Puntos,notas,10,18,2018-07-17 02:09:33,213
+554,Recta Tangente en un Punto,notas,12,18,2018-07-17 02:10:02,214
+789,Factorización,notas,7,111,2018-07-23 11:21:35,279
+162,Altura del globo,ejercicio,12,15,2018-07-04 07:39:57,116
+569,Jerarquía de operaciones,ejercicio,1,88,2018-07-17 04:21:19,322
+556,Operaciones con racionales,ejercicio,2,88,2018-07-17 04:11:46,323
+557,Desomposición en factores primos,ejercicio,3,88,2018-07-17 04:12:13,324
+558,Máximo común divisor,ejercicio,4,88,2018-07-17 04:12:26,326
+559,Mínimo común múltiplo,ejercicio,5,88,2018-07-17 04:12:41,325
+560,Porcentaje,ejercicio,6,88,2018-07-17 04:12:52,327
+561,Proporciones,ejercicio,7,88,2018-07-17 04:13:07,328
+562,Simplifica fracción,ejercicio,8,88,2018-07-17 04:13:19,329
+563,Ecuación lineal,ejercicio,9,88,2018-07-17 04:13:42,330
+566,Producto notable,ejercicio,10,88,2018-07-17 04:14:55,331
+567,Factorización,ejercicio,11,88,2018-07-17 04:15:05,332
+565,Función lineal,ejercicio,12,88,2018-07-17 04:14:29,333
+1164,Posición inicial,ejercicio,5,152,2018-08-01 11:37:29,733
+1204,Ubica Punto,ejercicio,3,157,2018-08-03 11:00:11,770
+790,Máximo común divisor de monomios,notas,8,111,2018-07-23 10:14:38,280
+1272,Resnick02.06-021a,ejercicio,10,182,2019-03-12 21:58:56,820
+1216, Longitud de la astabandera,ejercicio,9,157,2018-08-03 12:13:28,780
+600,Aplica inverso aditivo,ejercicio,3,92,2018-07-18 10:52:37,344
+1217,Identidad Trigonométrica,ejercicio,10,157,2018-08-03 12:19:42,781
+609,Aplica axioma de orden 3,ejercicio,7,91,2018-07-18 13:28:51,351
+570,"Parábolas con Vértice en (0,0)",notas,2,19,2018-07-17 09:53:37,215
+1219,Posición Inicial,ejercicio,12,157,2018-08-03 12:47:34,783
+579,Números que no son racionales,notas,1,90,2018-07-18 01:45:52,224
+1274,Resnick02.06-021c,ejercicio,12,182,2019-03-12 22:10:13,822
+580,La raíz cuadrada de dos no es racional,notas,2,90,2018-07-18 02:04:04,225
+581,Identifica los irracionales,ejercicio,3,90,2018-07-18 02:25:44,334
+582,Números reales,notas,4,90,2018-07-18 02:28:16,226
+584,Propiedades de campo,notas,5,90,2018-07-18 02:41:55,227
+590,Evalúa inverso aditivo,ejercicio,6,90,2018-07-18 07:21:57,339
+591,Evalúa inverso multiplicativo,ejercicio,7,90,2018-07-18 07:22:27,340
+594,Aplica propiedad distributiva,ejercicio,8,90,2018-07-18 09:05:33,343
+610,Solución de desigualdades,notas,8,91,2018-07-18 13:31:56,234
+571,"Parábolas con Vértice en (h,k)",notas,3,19,2018-07-17 09:59:59,216
+597,Errores al aplicar inverso multiplicativo,notas,4,92,2018-07-18 09:18:48,230
+1275,Resnick02.06-021d,ejercicio,13,182,2019-03-12 22:12:34,823
+602,Aplica inverso multiplicativo,ejercicio,5,92,2018-07-18 11:50:08,345
+1276,Resnick02.06-022a*,ejercicio,14,182,2019-03-12 22:14:56,824
+601,Errores al aplicar propiedad distributiva,notas,6,92,2018-07-18 11:24:14,231
+603,Aplicar la propiedad distributiva,ejercicio,7,92,2018-07-18 12:06:38,346
+611,Resuelve desigualdad,ejercicio,9,91,2018-07-18 13:43:16,352
+1387,Resnick04.04-018a,ejercicio,19,189,2019-04-28 22:38:15,930
+1271,Resnick02.06-018i,ejercicio,9,182,2019-03-12 21:53:40,819
+622,Identifica irracionales,ejercicio,1,93,2018-07-18 20:05:55,362
+1273,Resnick02.06-021b,ejercicio,11,182,2019-03-12 22:04:28,821
+614,¿Cuáles números cumplen la desigualdad?,ejercicio,2,93,2018-07-18 19:50:06,354
+1388,Resnick04.04-018b,ejercicio,20,189,2019-04-28 22:44:48,931
+625,Monomios y polinomios,notas,1,94,2018-07-19 01:22:50,235
+604,Intervalos de la recta real,notas,1,91,2018-07-18 12:29:30,233
+616,Resuelve desigualdad 1,ejercicio,3,93,2018-07-18 19:54:09,356
+605,Identifica números en un intervalo,ejercicio,2,91,2018-07-18 12:48:12,347
+595,Axiomas de orden,notas,4,91,2018-07-18 09:07:59,232
+606,Identifica el intervalo,ejercicio,3,91,2018-07-18 12:57:23,348
+607,Aplica axioma de orden 1,ejercicio,5,91,2018-07-18 13:05:23,349
+608,Aplica axioma de orden 2,ejercicio,6,91,2018-07-18 13:21:35,350
+626,Producto de monomio por polinomio,notas,2,94,2018-07-19 01:30:45,236
+627,Evalúa producto de monomios por polinomio,ejercicio,3,94,2018-07-19 01:44:28,365
+617,Resuelve desigualdad 2,ejercicio,4,93,2018-07-18 19:56:22,357
+618,Resuelve desigualdad 3,ejercicio,5,93,2018-07-18 19:57:31,358
+619,Resuelve desigualdad 4,ejercicio,6,93,2018-07-18 19:58:45,359
+620,Resuelve desigualdad 5,ejercicio,7,93,2018-07-18 20:00:12,360
+621,Axiomas de orden,ejercicio,8,93,2018-07-18 20:02:54,361
+635,Multiplica binomios conjugados,ejercicio,6,95,2018-07-19 06:24:23,368
+632,Caso general,notas,1,95,2018-07-19 05:38:59,238
+630,Binomios al cuadrado,notas,7,95,2018-07-19 01:56:24,240
+633,Desarrolla producto de binomios,ejercicio,2,95,2018-07-19 05:59:35,366
+628,Binomios con término común,notas,3,95,2018-07-19 01:55:50,237
+634,Multiplica binomios con término común,ejercicio,4,95,2018-07-19 06:12:14,367
+629,Binomios conjugados,notas,5,95,2018-07-19 01:56:04,239
+636,Desarrolla binomios al cuadrado,ejercicio,8,95,2018-07-19 06:31:35,369
+637,Monomios y polinomios,notas,4,97,2018-07-19 01:22:50,241
+638,Producto de monomio por polinomio,notas,5,97,2018-07-19 01:30:45,242
+639,Evalúa producto de monomios por polinomio,ejercicio,6,97,2018-07-19 01:44:28,370
+640,Caso general,notas,9,98,2018-07-19 05:38:59,243
+713,Módulo,ejercicio,2,103,2018-07-22 21:30:48,418
+714,Suma de complejos,ejercicio,3,103,2018-07-22 21:34:24,419
+641,Desarrolla producto de binomios,ejercicio,10,98,2018-07-19 05:59:35,371
+642,Binomios con término común,notas,11,98,2018-07-19 01:55:50,244
+643,Multiplica binomios con término común,ejercicio,12,98,2018-07-19 06:12:14,372
+644,Binomios conjugados,notas,13,98,2018-07-19 01:56:04,245
+645,Multiplica binomios conjugados,ejercicio,14,98,2018-07-19 06:24:23,373
+646,Binomios al cuadrado,notas,15,98,2018-07-19 01:56:24,246
+647,Desarrolla binomios al cuadrado,ejercicio,16,98,2018-07-19 06:31:35,374
+680,Binomio al cubo,ejercicio,9,96,2018-07-19 12:45:13,399
+681,Binomio a la 5,ejercicio,10,96,2018-07-19 12:45:52,400
+682,Producto de polinomios,ejercicio,11,96,2018-07-19 12:49:44,401
+683,Trinomio cuadrado,ejercicio,12,96,2018-07-19 12:50:47,402
+648,Monomio por polinomio 1,ejercicio,1,99,2018-07-19 06:40:56,375
+650,Monomio por polinomio 2,ejercicio,2,99,2018-07-19 06:47:00,377
+791,Evalúa máximo común divisor de monomios,ejercicio,9,111,2018-07-23 10:40:24,472
+649,Producto de binomios 2,ejercicio,4,99,2018-07-19 06:44:06,376
+651,Producto de binomios 1,ejercicio,3,99,2018-07-19 06:50:11,378
+652,Producto de binomios con término común 1,ejercicio,5,99,2018-07-19 06:53:20,379
+653,Producto de binomios con término común 2,ejercicio,6,99,2018-07-19 06:53:51,380
+654,Producto de binomios conjugados 1,ejercicio,7,99,2018-07-19 06:56:28,381
+655,Producto de binomios conjugados 2,ejercicio,8,99,2018-07-19 06:57:12,382
+656,Cuadrado de binomios 1,ejercicio,9,99,2018-07-19 06:58:15,383
+657,Cuadrado de binomios 2,ejercicio,10,99,2018-07-19 06:59:21,384
+792,Monomio común,notas,10,111,2018-07-23 11:02:40,281
+659,Binomio al cubo,notas,9,95,2018-07-19 09:58:47,247
+660,Ejemplo de binomio al cubo,notas,10,95,2018-07-19 10:07:01,248
+661,Desarrolla binomio al cubo,ejercicio,11,95,2018-07-19 10:12:22,385
+700,Evalúa módulo,ejercicio,7,101,2018-07-22 18:16:30,410
+662,Triángulo de Pascal,video,12,95,2018-07-19 10:24:53,37
+663,Binomio a la quinta potencia,notas,13,95,2018-07-19 10:37:08,249
+666,Producto de polinomios,notas,1,100,2018-07-19 11:38:21,250
+703,Producto de números complejos,notas,4,102,2018-07-22 18:42:15,259
+669,Trinomio al cuadrado,notas,3,100,2018-07-19 11:54:54,251
+670,Ejemplo de trinomio al cuadrado,notas,4,100,2018-07-19 12:03:49,252
+671,Desarrolla un trinomio al cuadrado,ejercicio,5,100,2018-07-19 12:11:38,390
+793,Ejemplo factorización monomio común,notas,11,111,2018-07-23 11:17:24,282
+672,Monomio por polinomio 1,ejercicio,1,96,2018-07-19 12:23:09,391
+674,Producto de binomios 1,ejercicio,3,96,2018-07-19 12:29:26,393
+675,Producto de binomios 2,ejercicio,4,96,2018-07-19 12:31:01,394
+676,Binomios con término común 1,ejercicio,5,96,2018-07-19 12:32:58,395
+677,Binomios con término común 2,ejercicio,6,96,2018-07-19 12:36:07,396
+678,Binomios conjugados,ejercicio,7,96,2018-07-19 12:38:04,397
+679,Binomios al cuadrado,ejercicio,8,96,2018-07-19 12:40:45,398
+705,Multiplica números complejos,ejercicio,5,102,2018-07-22 19:36:50,413
+707,Producto de número complejo por su conjugado,notas,6,102,2018-07-22 20:33:09,261
+708,Evalúa el producto de complejos conjugados,ejercicio,7,102,2018-07-22 20:42:15,414
+706,División de números complejos,notas,8,102,2018-07-22 19:43:34,260
+689,Suma de fracciones,video,2,70,2018-07-22 15:46:22,38
+688,Operaciones con fracciones 1,ejercicio,4,70,2018-07-22 14:35:52,407
+690,Multiplicación de fracciones,video,3,70,2018-07-22 16:30:23,39
+691,Números imaginarios,notas,1,101,2018-07-22 17:26:54,253
+692,Números complejos,notas,2,101,2018-07-22 17:33:28,254
+693,Diagrama de Venn de conjuntos numéricos,notas,3,101,2018-07-22 17:39:03,255
+694,Complejo conjugado,notas,4,101,2018-07-22 17:42:33,256
+695,Evalúa complejo conjugado,ejercicio,5,101,2018-07-22 17:47:17,408
+697,Módulo,notas,6,101,2018-07-22 17:57:02,257
+709,Divide números complejos,ejercicio,9,102,2018-07-22 20:51:58,415
+1165,Ángulo entre dos cometas,ejercicio,8,152,2018-08-01 11:43:37,734
+723,Soluciones reales y diferentes,notas,2,104,2018-07-23 03:10:32,263
+712,Conjugado,ejercicio,1,103,2018-07-22 21:23:44,417
+696,Suma y resta,notas,1,102,2018-07-22 17:56:22,258
+701,Suma números complejos,ejercicio,2,102,2018-07-22 18:28:37,411
+702,Resta números complejos,ejercicio,3,102,2018-07-22 18:37:05,412
+715,Resta de complejos,ejercicio,4,103,2018-07-22 21:35:43,420
+724,Solución real repetida,notas,3,104,2018-07-23 03:21:02,264
+1209,Perpendicular por un Punto,ejercicio,5,157,2018-08-03 11:31:30,774
+717,Producto de complejos,ejercicio,5,103,2018-07-22 21:40:58,422
+719,División de complejos,ejercicio,6,103,2018-07-22 21:45:13,424
+720,Operaciones con complejos 2,ejercicio,8,103,2018-07-22 21:47:39,425
+721,Operaciones con complejos 1,ejercicio,7,103,2018-07-22 21:49:23,426
+722,Solución de ecuaciones cuadráticas,notas,1,104,2018-07-23 02:35:45,262
+726,Identifica  ecuaciones con soluciones reales,ejercicio,5,104,2018-07-23 03:30:20,427
+727,Identifica ecuaciones con solución real repetida,ejercicio,6,104,2018-07-23 03:37:35,428
+728,Identifica ecuaciones con solución compleja,ejercicio,7,104,2018-07-23 03:42:48,429
+725,Soluciones complejas,notas,4,104,2018-07-23 03:25:52,265
+732,Resuelve ecuación cuadrática,ejercicio,8,104,2018-07-23 04:22:52,433
+1277,Resnick02.07-025a,ejercicio,2,181,2019-03-15 20:40:05,825
+741,Ejemplo de suma de números complejos,video,1,105,2018-07-23 05:14:47,40
+733,Suma de complejos,ejercicio,2,105,2018-07-23 04:24:42,434
+734,Resta de complejos,ejercicio,3,105,2018-07-23 04:38:17,435
+739,Ecuación cuadrática 1,ejercicio,9,103,2018-07-23 04:54:53,440
+740,Ecuación cuadrática 2,ejercicio,10,103,2018-07-23 04:55:25,441
+794,Factoriza monomio común,ejercicio,12,111,2018-07-23 11:37:04,473
+795,Binomios con término común,notas,5,112,2018-07-23 11:41:10,283
+796,Ejemplo 1,notas,6,112,2018-07-23 11:49:51,284
+797,Ejemplo 2,notas,7,112,2018-07-23 11:58:46,285
+798,Factoriza binomios con término común,ejercicio,8,112,2018-07-23 12:12:00,474
+742,Multiplicación de números complejos,video,4,105,2018-07-23 05:34:52,41
+735,Producto de complejos,ejercicio,5,105,2018-07-23 04:39:07,436
+743,División de números complejos,video,6,105,2018-07-23 05:58:07,42
+736,División de complejos,ejercicio,7,105,2018-07-23 04:39:41,437
+737,Operaciones con complejos 1,ejercicio,8,105,2018-07-23 04:41:25,438
+738,Operaciones con complejos 2,ejercicio,9,105,2018-07-23 04:41:56,439
+799,Factorización de diferencia de cuadrados,notas,4,113,2018-07-23 12:19:04,286
+875,Función inversa,notas,6,122,2018-07-24 19:37:51,298
+801,Factoriza diferencia de cuadrados,ejercicio,6,113,2018-07-23 12:36:22,475
+745,Evalúa máximo común divisor de monomios,ejercicio,3,106,2018-07-23 10:40:24,443
+747,Monomio común,notas,4,106,2018-07-23 11:02:40,267
+749,Factorización,notas,1,106,2018-07-23 11:21:35,268
+744,Máximo común divisor de monomios,notas,2,106,2018-07-23 10:14:38,266
+748,Ejemplo factorización monomio común,notas,5,106,2018-07-23 11:17:24,269
+802,Trinomios cuadrados perfectos,notas,5,114,2018-07-23 12:43:29,288
+750,Factoriza monomio común,ejercicio,6,106,2018-07-23 11:37:04,444
+751,Binomios con término común,notas,1,107,2018-07-23 11:41:10,270
+752,Ejemplo 1,notas,2,107,2018-07-23 11:49:51,271
+753,Ejemplo 2,notas,3,107,2018-07-23 11:58:46,272
+803,Identifica trinomios cuadrados perfectos,ejercicio,6,114,2018-07-23 12:52:35,476
+754,Factoriza binomios con término común,ejercicio,4,107,2018-07-23 12:12:00,445
+755,Factorización de diferencia de cuadrados,notas,1,108,2018-07-23 12:19:04,273
+804,Factorización de trinomios cuadrados perfectos,notas,7,114,2018-07-23 13:21:44,289
+757,Factoriza diferencia de cuadrados,ejercicio,3,108,2018-07-23 12:36:22,446
+759,Identifica trinomios cuadrados perfectos,ejercicio,2,109,2018-07-23 12:52:35,447
+760,Factorización de trinomios cuadrados perfectos,notas,3,109,2018-07-23 13:21:44,276
+805,Factoriza trinomios cuadrados perfectos,ejercicio,8,114,2018-07-23 13:49:57,477
+762,Factoriza trinomios cuadrados perfectos,ejercicio,4,109,2018-07-23 13:49:57,449
+876,Evalúa función inversa,ejercicio,7,122,2018-07-24 19:56:22,530
+1166,Rectas Paralelas,notas,7,14,2018-08-01 17:55:52,350
+816,Producto de monomio y polinomio 2,ejercicio,3,118,2018-07-24 05:20:27,488
+830,Ejemplo de un binomio al cubo,video,14,118,2018-07-24 07:54:03,49
+1210,Encuentra Centro y Radio,ejercicio,6,157,2018-08-03 11:37:19,775
+1278,Resnick02.07-025b,ejercicio,3,181,2019-03-15 21:02:47,826
+1031,Ejemplo binomios con término común,video,5,126,2018-07-28 08:01:52,53
+91,Valor del Seno,ejercicio,5,5,2018-06-28 20:27:50,22
+800,Ejemplo,notas,5,113,2018-07-23 12:27:12,287
+947,Ordena polinomio,ejercicio,4,134,2018-07-25 20:10:39,583
+974,Convierte de grados a radianes,ejercicio,1,140,2018-07-26 11:06:37,598
+511,Ubica la Ave,notas,10,8,2018-07-16 14:14:35,171
+920,Sistema de ecuaciones 1,ejercicio,1,131,2018-07-25 12:59:59,560
+859,Trinomios al cuadrado,ejercicio,7,120,2018-07-24 13:29:16,520
+926,Sistema de ecuaciones 7,ejercicio,7,131,2018-07-25 13:07:54,566
+928,Problema 2,ejercicio,9,131,2018-07-25 13:10:28,568
+862,Factorización general 1,ejercicio,8,120,2018-07-24 13:32:49,523
+863,Factorización general 2,ejercicio,9,120,2018-07-24 13:33:39,524
+864,Factorización general 3,ejercicio,10,120,2018-07-24 13:34:14,525
+868,Definición,notas,1,123,2018-07-24 18:33:01,294
+869,Identifica funciones lineales,ejercicio,2,123,2018-07-24 18:38:03,528
+1000,Altura de una capa de nubes,notas,6,142,2018-07-26 13:56:31,321
+764,Ejemplos Caso 2 (LLA),notas,5,15,2018-07-23 17:50:53,278
+975,Máximo común divisor,ejercicio,1,141,2018-07-26 11:23:04,599
+965,Multiplica polinomios,ejercicio,4,133,2018-07-26 04:51:50,592
+964,División de polinomios,video,5,133,2018-07-26 04:49:38,50
+966,Divide polinomios,ejercicio,6,133,2018-07-26 04:53:03,593
+1007,Máximo común divisor,ejercicio,1,143,2018-07-26 15:21:57,622
+90,Valor del Coseno,ejercicio,6,5,2018-06-28 19:16:04,73
+92,Valor Tangente,ejercicio,7,5,2018-06-28 21:07:57,19
+981,Números primos,ejercicio,3,141,2018-07-26 11:44:38,603
+996,Ecuación lineal,ejercicio,5,141,2018-07-26 13:21:42,615
+998,Producto notable 1,ejercicio,9,141,2018-07-26 13:24:58,617
+970,Recta dado Punto y Corte,ejercicio,2,136,2018-07-26 09:56:27,595
+1010,Sucesión aritmética,ejercicio,2,143,2018-07-26 15:27:35,625
+1020,Función lineal 2,ejercicio,9,143,2018-07-26 19:10:41,635
+1012,Sucesión geométrica,ejercicio,3,143,2018-07-26 15:37:38,627
+972,Recta dados Punto y Pendiente,ejercicio,3,136,2018-07-26 10:24:02,596
+1011,Paralela por un Punto,ejercicio,6,136,2018-07-26 15:30:10,626
+1002,Perpendicular a un Lado de un Triángulo,ejercicio,9,136,2018-07-26 14:00:58,618
+1009,Perpendicular a una Recta y Mínima Distancia,ejercicio,10,136,2018-07-26 15:25:26,624
+994,Producto notable 2,ejercicio,10,141,2018-07-26 12:43:21,613
+1022,Circunferencia dados Centro y Punto,ejercicio,1,144,2018-07-27 09:45:34,638
+1025,Recta Tangente en un Punto,ejercicio,4,144,2018-07-27 10:59:57,641
+1027,Circunferencia dados Centro y Tangente,ejercicio,5,144,2018-07-27 12:05:33,642
+919,Ubica a Gabriel y su Motocicleta,ejercicio,10,130,2018-07-25 12:48:36,559
+902,Trinomios cuadrados,ejercicio,14,126,2018-07-25 08:53:12,551
+918,Continuación Caso 2 (LLA),notas,6,15,2018-07-25 12:48:07,311
+934,Ancho del rio,ejercicio,13,15,2018-07-25 13:40:02,573
+1140,Poliedros,notas,1,153,2018-07-31 10:54:37,345
+758,Trinomios cuadrados perfectos,notas,1,109,2018-07-23 12:43:29,275
+925,Sistema de ecuaciones 6,ejercicio,6,131,2018-07-25 13:06:42,565
+927,Problema 1,ejercicio,8,131,2018-07-25 13:09:25,567
+929,Problema 3,ejercicio,10,131,2018-07-25 13:11:13,569
+95,Introducción a la Ley del Seno,video,3,15,2018-06-28 23:23:39,13
+765,Máximo común divisor de monomios,ejercicio,1,110,2018-07-23 19:06:25,450
+510,Encuentra Ordenada de un Punto,notas,8,8,2018-07-16 14:13:51,170
+130,Problemas de aplicación,notas,11,15,2018-07-02 17:50:55,39
+43,Corte entre Perpendiculares,ejercicio,14,14,2018-06-24 10:53:39,52
+771,Monomio común,ejercicio,2,110,2018-07-23 19:30:38,456
+770,Binomios con término común 1,ejercicio,3,110,2018-07-23 19:26:24,455
+772,Binomios con término común 2,ejercicio,4,110,2018-07-23 19:32:49,457
+987,Notas importantes,notas,1,142,2018-07-26 12:23:04,318
+774,Binomio conjugado,ejercicio,5,110,2018-07-23 19:52:55,459
+540,Recta Perpendicular a otra,notas,15,14,2018-07-17 00:50:34,200
+44,Recta Perpendicular a otra,ejercicio,16,14,2018-06-21 20:13:58,42
+1003,Factorización,ejercicio,11,141,2018-07-26 14:43:46,619
+944,Grado de polinomio,ejercicio,1,134,2018-07-25 20:07:32,580
+945,Grado de polinomio 2,ejercicio,2,134,2018-07-25 20:08:46,581
+953,Recta dados Cortes con los Ejes,ejercicio,1,136,2018-07-25 22:45:42,588
+818,Ejemplo de monomio multiplicado por binomio,video,1,118,2018-07-24 05:46:46,43
+817,Producto de monomio y polinomio 1,ejercicio,2,118,2018-07-24 05:30:23,489
+819,Binomios con término común,ejercicio,7,118,2018-07-24 05:50:58,490
+831,Trinomios al cuadrado,notas,1,119,2018-07-24 08:49:16,290
+32,Ubica la Ave,ejercicio,11,8,2018-06-19 07:19:04,75
+837,Factoriza en trinomio al cuadrado,ejercicio,2,119,2018-07-24 11:05:52,501
+1137,Pirámides,notas,13,153,2018-07-31 10:40:40,352
+967,Test,notas,1,139,2018-07-26 07:43:43,316
+1168,Número de caras de una pirámide,notas,14,153,2018-08-01 22:51:56,353
+980,Perpendicular a Recta dado un Punto,ejercicio,4,136,2018-07-26 11:33:40,602
+982,Área  Terreno,ejercicio,5,136,2018-07-26 11:57:47,604
+882,Problema de interés simple,ejercicio,3,124,2018-07-25 03:18:33,531
+880,Depreciación lineal,notas,4,124,2018-07-25 02:54:57,302
+988,Paralela por un Punto,ejercicio,7,136,2018-07-26 12:27:39,608
+883,Problema de depreciación lineal,ejercicio,5,124,2018-07-25 03:34:20,532
+881,Escalas de temperatura,notas,6,124,2018-07-25 02:55:13,303
+886,Evalúa una función lineal,ejercicio,2,125,2018-07-25 04:13:38,535
+904,Definición,notas,1,127,2018-07-25 10:15:07,304
+911,Introducción,notas,1,129,2018-07-25 11:25:56,308
+914,Problema 2,notas,3,129,2018-07-25 12:21:03,310
+978,Convierte de radianes a grados,ejercicio,2,140,2018-07-26 11:33:09,601
+1028,Encuentra el Valor de k,ejercicio,6,144,2018-07-27 21:24:04,643
+1208,Paralela por un Punto,ejercicio,4,157,2018-08-03 11:24:25,773
+995,Recta Perpendicular a otra,ejercicio,8,136,2018-07-26 13:10:16,614
+1029,Ejemplo factorización de monomio por polinomio,video,1,126,2018-07-28 07:26:12,51
+1013,Proporciones,ejercicio,4,143,2018-07-26 15:45:04,628
+1014,Ecuación lineal,ejercicio,5,143,2018-07-26 15:53:36,629
+1279,Resnick02.07-026,ejercicio,4,181,2019-03-15 21:09:33,827
+1015,Producto notable,ejercicio,6,143,2018-07-26 18:31:05,630
+1017,Factorización,ejercicio,7,143,2018-07-26 18:51:08,632
+1030,Ejemplo de factorización de diferencia de cuadrados,video,3,126,2018-07-28 07:44:17,52
+1019,Función lineal 1,ejercicio,8,143,2018-07-26 19:02:28,634
+1021,Sistema de ecuaciones,ejercicio,10,143,2018-07-26 19:21:30,636
+1004,Álgebra de polinomios,ejercicio,12,141,2018-07-26 14:45:02,637
+976,Sucesión 1,ejercicio,2,141,2018-07-26 11:26:56,600
+985,Sucesión 2,ejercicio,4,141,2018-07-26 12:18:49,607
+989,Desigualdad,ejercicio,6,141,2018-07-26 12:33:45,609
+997,Números complejos,ejercicio,7,141,2018-07-26 13:23:58,616
+992,Ecuación cuadrática,ejercicio,8,141,2018-07-26 12:36:46,611
+1050,Introducción,notas,1,146,2018-07-28 18:28:50,323
+991,Altura de un árbol,notas,2,142,2018-07-26 12:36:18,319
+999,Altura de una astabandera,notas,3,142,2018-07-26 13:29:19,320
+986,Ángulo formado por una escalera,notas,4,142,2018-07-26 12:19:39,317
+1024,Encuentra Centro y Radio dada Ecuación,ejercicio,2,144,2018-07-27 10:31:18,640
+1023,Circunferencias Tangentes a los Ejes,ejercicio,3,144,2018-07-27 10:01:45,639
+528,Ordenada de un Punto,notas,3,8,2018-07-16 23:42:08,188
+39,Área de un Triángulo,ejercicio,7,8,2018-06-22 08:46:12,70
+512,¿Dónde está Isabel?,notas,12,8,2018-07-16 14:18:47,172
+36,¿Dónde está Isabel?,ejercicio,13,8,2018-06-19 12:16:09,76
+508,Longitud de una Cerca,notas,4,8,2018-07-16 14:01:04,168
+24, Longitud de una Cerca,ejercicio,5,8,2018-06-19 00:25:17,67
+509,Área de un Triángulo,notas,6,8,2018-07-16 14:06:29,169
+1065,Clasificación basada en ángulos,notas,3,146,2018-07-29 10:18:57,326
+1054,Longitud de la cuerda,ejercicio,7,140,2018-07-28 19:06:49,658
+1057,Clasificación basada en sus lados,notas,2,146,2018-07-29 05:31:46,324
+1059,Altura del globo,ejercicio,9,140,2018-07-29 07:06:14,660
+1051,Valor de la Secante,ejercicio,3,140,2018-07-28 18:31:27,656
+1053,Valor de la Cosecante,ejercicio,4,140,2018-07-28 18:51:23,657
+1066,Teorema de Pitágoras,notas,4,146,2018-07-29 10:57:48,327
+937,Área Triángulo Rectángulo,ejercicio,3,130,2018-07-25 14:41:25,575
+936,Extremo dado Punto Medio,ejercicio,7,130,2018-07-25 14:28:33,574
+1103,Definición,notas,1,148,2018-07-30 03:03:18,334
+30,Encuentra Abscisa de un Punto,ejercicio,9,8,2018-06-19 00:25:33,72
+1089,Identidad trigonométrica II,ejercicio,3,151,2018-07-29 18:31:37,682
+1101,Ecuación trigonométrica I,ejercicio,8,151,2018-07-29 19:23:46,693
+1076,Determina la longitud de un cateto,ejercicio,6,146,2018-07-29 13:22:34,671
+1075,Formulas de ángulos dobles y semiángulos,notas,18,12,2018-07-29 13:14:30,330
+1056,Altura del edificio,ejercicio,8,140,2018-07-28 19:22:55,659
+1062,Longitud de la astabandera,ejercicio,10,140,2018-07-29 07:47:21,663
+1170,Número de aristas de una pirámide,notas,16,153,2018-08-01 23:06:20,354
+1060,Valor de la Cotangente,ejercicio,5,140,2018-07-29 07:24:17,661
+1061,Valor del Coseno,ejercicio,6,140,2018-07-29 07:34:51,662
+1032,Ejemplo de factorización de trinomio cuadrado perfecto,video,7,126,2018-07-28 08:23:17,54
+1033,Ejemplo de factorización en binomios al cubo,video,9,126,2018-07-28 08:57:36,55
+1036,Ejemplo de factorización de diferencia de cubos,video,11,126,2018-07-28 09:21:01,56
+903,Factorización general,ejercicio,15,126,2018-07-25 09:06:12,552
+1038,Ejemplo de factorización en trinomio cuadrado,video,13,126,2018-07-28 09:48:46,57
+572,"Parábola con Vértice en (0,0)",notas,5,19,2018-07-17 10:05:07,217
+573,"Parábola con Vértice en (h,k)",notas,8,19,2018-07-17 10:07:54,218
+574,"Parábola dado un Punto, Vértice y Abertura",notas,11,19,2018-07-17 10:11:13,219
+142,"1. Parábola dado un Punto, Vértice y Abertura",ejercicio,12,19,2018-07-03 11:20:10,103
+575,Parábola dados Vértice y Directriz,notas,14,19,2018-07-17 10:14:07,220
+143,1. Parábola dados Vértice y Directriz,ejercicio,15,19,2018-07-03 11:21:03,102
+577,Parábola dados Tres Puntos y Eje,notas,17,19,2018-07-17 10:19:51,222
+165,Parábola dados Tres Puntos y Eje,ejercicio,18,19,2018-07-04 11:22:22,118
+578,Aplicación:  Radiotelescopios y Antenas Parabólicas,notas,19,19,2018-07-17 10:24:25,223
+576,Ecuación General y Vértice,notas,4,19,2018-07-17 10:16:37,221
+1042,Elevación de una cometa,ejercicio,5,142,2018-07-28 12:51:49,650
+1073,Identidad de adición y sustracción I,ejercicio,16,12,2018-07-29 13:02:36,669
+1039,Altura del edificio,ejercicio,7,142,2018-07-28 12:17:55,647
+1040,Distancia de un barco,ejercicio,8,142,2018-07-28 12:32:41,648
+1041,Escalera inclinada,ejercicio,9,142,2018-07-28 12:39:26,649
+1044,Punto Medio entre Cortes de Recta y Parábola,ejercicio,6,145,2018-07-28 13:10:02,652
+1034,Identifica los Elementos de una Parábola,ejercicio,1,145,2018-07-28 09:08:42,644
+1035,"Parábola dado un Punto, Vértice y Abertura",ejercicio,2,145,2018-07-28 09:16:34,645
+1037,Parábola dados Vértice y Directriz,ejercicio,3,145,2018-07-28 09:38:16,646
+1077,Perímetro,notas,7,146,2018-07-29 16:37:16,331
+1045,Encuentra el Valor de k,ejercicio,5,145,2018-07-28 16:11:39,653
+1046,Antena Parabólica,ejercicio,4,145,2018-07-28 16:47:31,654
+1212,Elementos de una Parábola,ejercicio,7,157,2018-08-03 11:59:28,777
+1227,Introducción,notas,1,158,2018-08-15 12:09:16,363
+1079,Ángulos dobles,ejercicio,19,12,2018-07-29 17:04:20,673
+1228,Regresión y clasificación,notas,4,158,2018-08-15 17:24:22,364
+1102,Ecuación trigonométrica II,ejercicio,9,151,2018-07-29 19:32:09,694
+1064,Simplificación de expresiones trigonométricas,notas,2,12,2018-07-29 08:29:03,325
+47,Simplifica la expresión trigonométrica II,ejercicio,4,12,2018-06-29 10:41:54,32
+46,Identidad trigonométrica I,ejercicio,10,12,2018-06-29 10:34:07,28
+1067,Determina la longitud de la hipotenusa,ejercicio,5,146,2018-07-29 11:30:39,665
+1068,Identidad trigonométrica III,ejercicio,12,12,2018-07-29 11:36:05,666
+1070,Identidad trigonométrica IV,ejercicio,13,12,2018-07-29 11:50:44,667
+1071,Identidad trigonométrica V,ejercicio,14,12,2018-07-29 12:13:03,668
+1072,Formulas de adición y sustracción,notas,15,12,2018-07-29 12:20:58,329
+1083,Evalúa el perímetro,ejercicio,8,146,2018-07-29 17:31:47,677
+1081,Semiángulo I,ejercicio,20,12,2018-07-29 17:19:02,675
+1084,Semiángulo II,ejercicio,21,12,2018-07-29 17:41:17,678
+1085,Área,notas,9,146,2018-07-29 17:45:23,332
+939,Extremo dada Razón,ejercicio,8,130,2018-07-25 15:33:46,577
+1086,Simplificación de una expresión trigonométrica,ejercicio,1,151,2018-07-29 18:21:41,679
+1087,Identidad trigonométrica I,ejercicio,2,151,2018-07-29 18:26:38,680
+1093,Evalúa área,ejercicio,10,146,2018-07-29 18:38:44,686
+1095,Formula de adición,ejercicio,4,151,2018-07-29 18:43:58,687
+1094,Fórmula de Herón,notas,11,146,2018-07-29 18:41:21,333
+1096,Formula de sustracción,ejercicio,5,151,2018-07-29 18:53:27,688
+1097,Ángulos dobles,ejercicio,6,151,2018-07-29 19:01:26,689
+1106,Área,notas,4,148,2018-07-30 03:44:04,336
+1099,Aplica fórmula de Herón,ejercicio,12,146,2018-07-29 19:04:16,691
+1100,Semiángulo,ejercicio,7,151,2018-07-29 19:18:06,692
+1113,Perímetro de una sección circular,ejercicio,8,148,2018-07-30 05:12:38,699
+1104,Perímetro,notas,2,148,2018-07-30 03:27:46,335
+1105,Evalúa el perímetro,ejercicio,3,148,2018-07-30 03:38:22,695
+1108,Evalúa el área,ejercicio,5,148,2018-07-30 03:53:42,697
+1109,Sección circular,notas,6,148,2018-07-30 03:57:46,337
+1115,Definición,notas,1,150,2018-07-30 05:19:18,340
+1114,Área de una sección circular,ejercicio,10,148,2018-07-30 05:16:25,700
+1116,Perímetro,notas,2,150,2018-07-30 05:52:28,341
+1110,Ejemplo: perímetro sección circular,notas,7,148,2018-07-30 04:43:15,338
+1111,Ejemplo: área sección circular,notas,9,148,2018-07-30 04:43:35,339
+1117,Evalúa perímetro de un polígono regular,ejercicio,3,150,2018-07-30 06:10:36,701
+1118,Área,notas,4,150,2018-07-30 06:15:08,342
+1119,Evalúa el área de un polígono regular,ejercicio,5,150,2018-07-30 06:28:33,702
+1120,Definición,notas,1,147,2018-07-30 06:32:47,343
+1121,Área de un triángulo,ejercicio,1,149,2018-07-30 06:36:10,703
+1043,Altura de una montaña,ejercicio,10,142,2018-07-28 12:55:21,651
+1286,Resnick02.06-022c,ejercicio,16,182,2019-03-16 15:28:47,833
+1287,Resnick02.06-022d,ejercicio,17,182,2019-03-16 15:37:46,834
+1122,Fórmula de Herón,ejercicio,2,149,2018-07-30 06:38:09,704
+1123,Hipotenusa de un triángulo rectángulo,ejercicio,3,149,2018-07-30 06:39:56,705
+1124,Longitud de un cateto ,ejercicio,4,149,2018-07-30 06:42:00,706
+1126,Área de un círculo,ejercicio,6,149,2018-07-30 06:45:13,708
+1131,Perímetro de polígono regular,ejercicio,9,149,2018-07-30 06:49:22,712
+1288,Resnick02.06-022e,ejercicio,18,182,2019-03-16 15:58:11,835
+1289,Resnick02.06-022f,ejercicio,19,182,2019-03-16 16:00:43,836
+1171,¿Cuántas aristas?,ejercicio,17,153,2018-08-01 23:18:13,737
+1172,Vértices de una pirámide,notas,18,153,2018-08-01 23:19:42,355
+1173,¿Cuántos vértices tiene?,ejercicio,19,153,2018-08-01 23:28:13,738
+1181,Superficie de una pirámide,ejercicio,6,154,2018-08-02 04:57:28,747
+1182,Volumen de una pirámide,ejercicio,7,154,2018-08-02 05:04:02,748
+1183,Superficie de una esfera,ejercicio,8,154,2018-08-02 05:08:19,749
+1184,Volumen de una esfera,ejercicio,9,154,2018-08-02 05:14:17,750
+1185,Superficie de un cilindro,ejercicio,10,154,2018-08-02 05:18:02,751
+1186,Volumen de un cilindro,ejercicio,11,154,2018-08-02 05:23:46,752
+1290,Resnick02.06-022g,ejercicio,20,182,2019-03-16 16:09:40,837
+1291,Resnick02.06-022h,ejercicio,21,182,2019-03-16 16:13:32,838
+1292,Resnick02.06-022i,ejercicio,22,182,2019-03-16 16:14:42,839
+1293,Resnick02.06-022j,ejercicio,23,182,2019-03-16 16:15:40,840
+1294,Resnick02.06-022k,ejercicio,24,182,2019-03-16 16:17:18,841
+1295,Resnick02.06-022l,ejercicio,25,182,2019-03-16 16:36:44,842
+1214,Longitud de la Cuerda,ejercicio,8,157,2018-08-03 12:08:15,778
+1218,Ecuación Trigonométrica,ejercicio,11,157,2018-08-03 12:30:50,782
+1220,Ángulo entre Dos Cometas,ejercicio,13,157,2018-08-03 12:50:11,784
+1221,Longitud de una Torre,ejercicio,14,157,2018-08-03 12:52:41,785
+1296,Resnick02.06-022m,ejercicio,26,182,2019-03-16 16:39:42,843
+1284,Resnick02.06-022b*,ejercicio,15,182,2019-03-16 15:19:12,832
+1223,"Datos, observaciones, características y etiquetas",notas,2,158,2018-08-14 09:56:28,359
+1224,Objeivo del aprendizaje estadístico,notas,3,158,2018-08-14 10:56:24,360
+1399,Regresión lineal simple,notas,4,159,2019-08-19 11:32:14,372
+1230,Evalúa combinación lineal,ejercicio,2,159,2018-08-16 11:43:05,786
+1225,Combinación lineal,notas,1,159,2018-08-14 13:20:52,361
+1231,Modelo lineal,notas,3,159,2018-08-16 12:01:50,366
+1281,Resnick02.07-027b,ejercicio,6,181,2019-03-15 23:16:42,829
+1280,Resnick02.07-027a,ejercicio,5,181,2019-03-15 21:30:21,828
+1282,Resnick02.07-028a,ejercicio,7,181,2019-03-15 23:19:45,830
+1283,Resnick02.07-028b,ejercicio,8,181,2019-03-16 00:00:17,831
+1342,Resnick 02.09-045a,ejercicio,4,188,2019-04-07 18:47:19,885
+1254,Resnick02.04-001,ejercicio,3,162,2019-03-05 20:07:34,806
+1297,Resnick02.07-029a,ejercicio,9,181,2019-03-19 18:08:56,844
+1132,Périmetro de un círculo,ejercicio,5,149,2018-07-30 06:57:02,714
+1127,Perímetro de sección circular,ejercicio,7,149,2018-07-30 06:46:51,709
+1128,Área de sección circular,ejercicio,8,149,2018-07-30 06:47:15,710
+1130,Área polígono regular,ejercicio,10,149,2018-07-30 06:48:27,713
+1298,Resnick02.07-029b,ejercicio,10,181,2019-03-19 18:21:26,845
+1299,Resnick02.07-030,ejercicio,11,181,2019-03-19 18:26:43,846
+1135,Valor de un ángulo I,ejercicio,9,15,2018-07-30 10:53:17,717
+746,Valor de un ángulo II,ejercicio,10,15,2018-07-23 10:40:38,442
+1300,Resnick02.07-031,ejercicio,12,181,2019-03-19 18:40:23,847
+1302,Resnick02.05-014,ejercicio,1,184,2019-03-19 21:46:02,848
+1303,Resnick02.05-015a,ejercicio,2,184,2019-03-19 22:14:20,849
+1305,Resnick02.05-015c,ejercicio,3,184,2019-03-19 22:32:10,850
+1138,Superficie de una pirámide,notas,20,153,2018-07-31 10:48:28,356
+1306,Resnick02.05-015e   ,ejercicio,4,184,2019-03-19 22:50:46,851
+1307,Resnick02.05-017a   ,ejercicio,5,184,2019-03-19 23:16:09,852
+1139,Volumen de una pirámide,notas,22,153,2018-07-31 10:48:41,357
+1174,Evalúa la superficie,ejercicio,21,153,2018-08-01 23:45:23,740
+1175,Evalúa el volumen,ejercicio,23,153,2018-08-02 00:00:12,741
+1176,¿Cuántas caras tiene?,ejercicio,1,154,2018-08-02 04:43:56,742
+1177,¿Cuantas aristas tiene?,ejercicio,2,154,2018-08-02 04:45:42,743
+1178,¿Cuános vértices tiene?,ejercicio,3,154,2018-08-02 04:47:09,744
+1179,Superficie de un prisma,ejercicio,4,154,2018-08-02 04:48:27,745
+1180,Volumen de un prisma,ejercicio,5,154,2018-08-02 04:53:13,746
+1191,Área de una sección circular,ejercicio,4,155,2018-08-02 14:37:35,757
+1193,Área de polígono regular,ejercicio,6,155,2018-08-02 14:39:40,759
+1194,Superficie un prisma,ejercicio,7,155,2018-08-02 14:41:23,760
+1195,Volumen de un prisma,ejercicio,8,155,2018-08-02 14:44:05,761
+1196,Superficie de una pirámide,ejercicio,9,155,2018-08-02 14:45:58,762
+1232,Cinemática de la partícula,notas,1,162,2018-09-19 10:41:24,367
+1308,Resnick02.05-017b,ejercicio,6,184,2019-03-19 23:33:57,853
+1343,Resnick 02.09-045b,ejercicio,5,188,2019-04-07 18:53:27,886
+1309,Resnick02.05-017c,ejercicio,7,184,2019-03-19 23:40:12,854
+1344,Resnick 02.09-046,ejercicio,6,188,2019-04-07 18:58:05,887
+1233,Video 1,video,2,162,2018-09-19 10:59:20,58
+1248,,ejercicio,1,179,2019-01-24 12:11:36,800
+1310,Resnick02.05-017d,ejercicio,8,184,2019-03-19 23:46:02,855
+1311,Resnick02.05-017e,ejercicio,9,184,2019-03-19 23:48:56,856
+1365,Resnick 02.09-062a,ejercicio,26,188,2019-04-11 11:19:30,908
+1346,Resnick 02.09-047b,ejercicio,8,188,2019-04-07 19:04:17,889
+1316,Resnick02.04-003a,ejercicio,4,185,2019-03-21 00:06:53,860
+1336,Resnick02.07-037,ejercicio,21,181,2019-03-23 13:16:01,879
+1345,Resnick 02.09-047a,ejercicio,7,188,2019-04-07 19:00:10,888
+1337,Resnick02.07-042a,ejercicio,22,181,2019-03-23 13:27:45,880
+1338,Resnick02.07-042b,ejercicio,23,181,2019-03-23 13:42:42,881
+1358,Resnick 02.09-058a,ejercicio,20,188,2019-04-07 20:26:40,901
+1341,Resnick 02.09-044c,ejercicio,3,188,2019-04-07 18:39:15,884
+1347,Resnick 02.09-048a,ejercicio,9,188,2019-04-07 19:08:40,890
+1348,Resnick 02.09-048b,ejercicio,10,188,2019-04-07 19:14:24,891
+1349,Resnick 02.09-049a,ejercicio,11,188,2019-04-07 19:17:29,892
+1350,Resnick 02.09-049b,ejercicio,12,188,2019-04-07 19:21:40,893
+1351,Resnick 02.09-052a,ejercicio,13,188,2019-04-07 19:23:30,894
+1352,Resnick 02.09-052b,ejercicio,14,188,2019-04-07 19:37:30,895
+1353,Resnick 02.09-052c,ejercicio,15,188,2019-04-07 19:43:12,896
+1354,Resnick 02.09-053,ejercicio,16,188,2019-04-07 19:49:37,897
+1355,Resnick 02.09-054,ejercicio,17,188,2019-04-07 19:52:46,898
+1356,Resnick 02.09-055,ejercicio,18,188,2019-04-07 19:59:46,899
+1357,Resnick 02.09-057,ejercicio,19,188,2019-04-07 20:07:08,900
+1359,Resnick 02.09-058b,ejercicio,21,188,2019-04-07 20:35:26,902
+1360,Resnick 02.09-059a,ejercicio,22,188,2019-04-07 20:37:14,903
+1361,Resnick 02.09-059b,ejercicio,23,188,2019-04-07 20:44:21,904
+1362,Resnick 02.09-060,ejercicio,24,188,2019-04-07 20:45:25,905
+1363,Resnick 02.09-061,ejercicio,25,188,2019-04-07 20:55:05,906
+1374,Resnick04.04-012b,ejercicio,6,189,2019-04-28 20:30:35,917
+1375,Resnick04.04-012c,ejercicio,7,189,2019-04-28 20:37:38,918
+1366,Resnick 02.09-062b,ejercicio,27,188,2019-04-11 11:19:41,910
+1367,Resnick 02.09-063,ejercicio,28,188,2019-04-11 11:19:52,911
+1312,Resnick02.04-001,ejercicio,1,185,2019-03-20 23:42:28,857
+1313,Resnick02.04-002a,ejercicio,2,185,2019-03-20 23:51:19,858
+1314,Resnick02.04-002b,ejercicio,3,185,2019-03-20 23:58:24,859
+1369,Resnick04.04-011a,ejercicio,1,189,2019-04-28 17:02:00,912
+1373,Resnick04.04-012a,ejercicio,5,189,2019-04-28 20:28:08,916
+1376,Resnick04.04-012d,ejercicio,8,189,2019-04-28 20:45:21,919
+1377,Resnick04.04-012e,ejercicio,9,189,2019-04-28 20:47:07,920
+1378,Resnick04.04-012f,ejercicio,10,189,2019-04-28 20:49:59,921
+1379,Resnick04.04-013a,ejercicio,11,189,2019-04-28 21:04:24,922
+1380,Resnick04.04-013b,ejercicio,12,189,2019-04-28 21:09:47,923
+1381,Resnick04.04-015a,ejercicio,13,189,2019-04-28 21:17:58,924
+1382,Resnick04.04-015b,ejercicio,14,189,2019-04-28 21:25:29,925
+1383,Resnick04.04-016a,ejercicio,15,189,2019-04-28 21:46:58,926
+1384,Resnick04.04-016b,ejercicio,16,189,2019-04-28 21:49:08,927
+1385,Resnick04.04-016d,ejercicio,17,189,2019-04-28 21:53:18,928
+1386,Resnick04.04-017,ejercicio,18,189,2019-04-28 22:09:02,929
+456,Evalúa porcentaje,ejercicio,3,84,2018-07-12 13:09:11,279
+1328,Resnick02.07-031b,ejercicio,13,181,2019-03-22 17:40:03,871
+1329,Resnick02.07-032,ejercicio,14,181,2019-03-22 17:44:58,872
+1330,Resnick02.07-033a,ejercicio,15,181,2019-03-22 17:56:17,873
+1331,Resnick02.07-033b,ejercicio,16,181,2019-03-22 18:02:48,874
+1332,Resnick02.07-034a,ejercicio,17,181,2019-03-22 18:08:10,875
+1333,Resnick02.07-034b,ejercicio,18,181,2019-03-23 12:50:51,876
+1334, Resnick02.07-036a,ejercicio,19,181,2019-03-23 12:54:32,877
+1335,Resnick02.07-036b,ejercicio,20,181,2019-03-23 13:05:53,878
+1339,Resnick 02.09-044a,ejercicio,1,188,2019-03-30 17:33:30,882
+1136,Prismas,notas,2,153,2018-07-31 10:39:42,344
+1144,Número de caras de un prisma,notas,3,153,2018-08-01 05:18:19,346
+1146,¿Cuántas caras tiene?,ejercicio,4,153,2018-08-01 05:25:25,721
+1147,Número de aristas de un prisma,notas,5,153,2018-08-01 05:32:19,347
+1148,¿Cuántas aristas tiene?,ejercicio,6,153,2018-08-01 05:38:51,722
+1149,Número de vértices de un prisma,notas,7,153,2018-08-01 05:40:28,348
+1150,¿Cuántos vértices tiene?,ejercicio,8,153,2018-08-01 05:44:37,723
+1141,Longitud de un lado I,ejercicio,1,152,2018-07-31 11:53:23,718
+1143,Valor de un ángulo I,ejercicio,3,152,2018-07-31 14:58:16,720
+1187,Hipotenusa de un triángulo retcángulo,ejercicio,1,155,2018-08-02 14:28:54,753
+1188,Fórmula de Herón,ejercicio,2,155,2018-08-02 14:32:42,754
+1189,Área de un círculo,ejercicio,3,155,2018-08-02 14:35:01,755
+1192,Perímetro de polígono regular,ejercicio,5,155,2018-08-02 14:39:18,758
+1197,Volumen de pirámide,ejercicio,10,155,2018-08-02 14:48:43,763
+1198,Superficie de una esfera,ejercicio,11,155,2018-08-02 14:51:11,764
+1199,Volumen de un cilindro,ejercicio,12,155,2018-08-02 14:52:53,765
+1340,Resnick 02.09-044b,ejercicio,2,188,2019-03-30 18:00:39,883
+1240,Velocidad,ejercicio,1,165,2018-12-12 18:18:49,792
+1241,Velocidad promedio,ejercicio,2,165,2018-12-12 18:41:31,793
+1396,Interés compuesto y sucesiones geométricas,notas,5,84,2019-08-02 03:32:49,371
+458,Ejercicio sucesiones geométricas,ejercicio,6,84,2018-07-12 13:49:56,280
+459,Razones,notas,7,84,2018-07-13 14:00:14,161
+460,Identifica la razón,ejercicio,8,84,2018-07-13 14:25:13,281
+461,Proporciones,notas,9,84,2018-07-13 14:38:18,162
+462,Plantea una proporción,ejercicio,10,84,2018-07-14 03:30:33,282
+1401,Test,ejercicio,13,88,2019-10-29 14:37:32,933
+1402,Pregunta 1,ejercicio,1,190,2019-10-31 12:45:34,934
+1317,Resnick02.04-003b,ejercicio,5,185,2019-03-21 00:12:37,861
+1318,Resnick02.04-004,ejercicio,6,185,2019-03-21 00:15:45,862
+1319,Resnick02.04-005a,ejercicio,7,185,2019-03-21 00:18:19,863
+1320,Resnick02.04-005b,ejercicio,8,185,2019-03-21 00:18:31,864
+1321,Resnick02.04-005c,ejercicio,9,185,2019-03-21 00:18:42,865
+1322,Resnick02.04-005d,ejercicio,10,185,2019-03-21 00:18:53,866
+1323,Resnick02.04-005e,ejercicio,11,185,2019-03-21 00:19:04,867
+1324,Resnick02.04-005f,ejercicio,12,185,2019-03-21 00:19:13,868
+1325,Resnick02.04-006,ejercicio,13,185,2019-03-21 00:56:07,869
+1326,Resnick02.04-007,ejercicio,14,185,2019-03-21 01:00:00,870
+1364,Resnick02.04-001a,ejercicio,15,185,2019-04-09 12:42:51,907
+1370,Resnick04.04-011b,ejercicio,2,189,2019-04-28 17:28:35,913
+1371,Resnick04.04-011c,ejercicio,3,189,2019-04-28 17:30:57,914
+1372,Resnick04.04-011d,ejercicio,4,189,2019-04-28 17:36:14,915

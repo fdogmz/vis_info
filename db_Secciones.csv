@@ -1,0 +1,135 @@
+Secciones.id,Secciones.nombre,Secciones.descripcion,Secciones.prioridad,Secciones.idTema,Secciones.examen,Secciones.practica,Secciones.fechaListo
+10,Ecuaciones de la Recta ,,1,12,<NULL>,<NULL>,2018-06-17 12:24:10
+13,Ecuaciones Trigonométricas,,2,10,<NULL>,<NULL>,2018-06-24 11:26:09
+14,Rectas Paralelas y Perpendiculares,,2,12,<NULL>,<NULL>,2018-06-19 21:17:33
+15,Ley del Seno,,1,9,<NULL>,<NULL>,2018-06-24 12:26:46
+16,Ley del Coseno,,2,9,<NULL>,<NULL>,2018-06-24 16:31:30
+17,Ecuación Centro-Radio de la Circunferencia,,1,14,<NULL>,<NULL>,2018-06-24 12:29:55
+18,Ecuación General de la Circunferencia,,2,14,<NULL>,<NULL>,2018-06-24 17:01:50
+19,Definición y Elementos de una Parábola,,1,15,<NULL>,<NULL>,2018-06-24 21:03:22
+97,Producto de monomios y polinomios,,1,19,False,False,2018-07-19 01:22:30
+98,Producto de binomios,,2,19,False,False,2018-07-19 01:55:27
+99,Evaluación,,3,19,True,False,2018-07-19 06:33:19
+8,Fórmula de la Distancia,,1,13,<NULL>,<NULL>,2018-06-18 12:10:59
+9,División de un Segmento,,2,13,<NULL>,<NULL>,2018-06-18 20:23:04
+12,Identidades Trigonométricas,,1,10,False,<NULL>,2018-06-24 09:58:59
+3,Definición y propiedades,,1,8,<NULL>,<NULL>,2018-06-13 08:15:38
+2,Potencias y logaritmos,,2,8,<NULL>,<NULL>,2018-06-13 08:16:25
+20,Sucesiones,,3,8,<NULL>,<NULL>,2018-06-30 05:00:21
+62,Evaluación,,5,8,True,<NULL>,2018-07-09 11:13:04
+68,Práctica,Ejemplos sobre ejercicios con números naturales,4,8,False,True,1900-07-14 05:40:21
+21,Introducción y propiedades,,1,1,<NULL>,<NULL>,2018-07-03 05:33:26
+24,Números primos y divisibilidad,,2,1,False,<NULL>,2018-07-03 05:34:16
+66,Sucesiones aritméticas [continuación] ,,3,1,False,False,2018-07-11 17:58:37
+63,Evaluación,,5,1,True,<NULL>,2018-07-09 11:21:41
+69,Práctica,Operaciones con números enteros,4,1,False,True,1900-07-14 13:04:00
+56,"Definición, operaciones y propiedades",,1,2,False,<NULL>,2018-07-03 09:08:11
+59,Potencias y radicales,,2,2,<NULL>,<NULL>,2018-07-03 09:08:56
+60,Ecuaciones lineales,,3,2,<NULL>,<NULL>,2018-07-03 09:09:07
+67," Porcentajes, razones y proporciones ",,4,2,False,False,2018-07-12 12:25:28
+64,Evaluación,,6,2,True,False,2018-07-11 13:34:46
+70,Práctica,Operaciones con números racionales,5,2,False,True,1900-07-14 17:12:21
+71,Definición y propiedades,,1,16,<NULL>,<NULL>,2018-06-13 08:15:38
+72,Potencias y logaritmos,,2,16,<NULL>,<NULL>,2018-06-13 08:16:25
+73,Sucesiones,,3,16,<NULL>,<NULL>,2018-06-30 05:00:21
+74,Práctica,Ejemplos sobre ejercicios con números naturales,4,16,False,True,1900-07-14 05:40:21
+75,Evaluación,,5,16,True,<NULL>,2018-07-09 11:13:04
+76,Introducción y propiedades,,1,17,<NULL>,<NULL>,2018-07-03 05:33:26
+77,Números primos y divisibilidad,,2,17,False,<NULL>,2018-07-03 05:34:16
+78,Sucesiones aritméticas [continuación] ,,3,17,False,False,2018-07-11 17:58:37
+79,Práctica,Operaciones con números enteros,4,17,False,True,1900-07-14 13:04:00
+80,Evaluación,,5,17,True,<NULL>,2018-07-09 11:21:41
+81,"Definición, operaciones y propiedades",,1,18,False,<NULL>,2018-07-03 09:08:11
+82,Potencias y radicales,,2,18,<NULL>,<NULL>,2018-07-03 09:08:56
+83,Ecuaciones lineales,,3,18,<NULL>,<NULL>,2018-07-03 09:09:07
+94,Producto de monomios y polinomios,,1,5,False,False,2018-07-19 01:22:30
+107,Factorización en binomios con término común,,2,20,False,False,2018-07-23 11:40:12
+84," Porcentajes, razones y proporciones ",,4,18,False,False,2018-07-12 12:25:28
+85,Práctica,Operaciones con números racionales,5,18,False,True,1900-07-14 17:12:21
+108,Factorización de diferencia de cuadrados,,3,20,False,False,2018-07-23 11:40:37
+101,Números complejos,,1,4,False,False,2018-07-22 17:26:13
+102,Operaciones con números complejos,,2,4,False,False,2018-07-22 17:56:13
+104,Solución de ecuaciones cuadráticas,,3,4,False,False,2018-07-22 21:23:13
+86,Evaluación,,6,18,True,False,2018-07-11 13:34:46
+87,Evaluación,,1,27,True,False,2018-07-15 11:05:23
+88,Evaluación,,1,30,True,False,2018-07-17 04:10:51
+109,Factorización de trinomios cuadrados perfectos,,4,20,False,False,2018-07-23 11:40:49
+103,Evaluación,,5,4,True,False,2018-07-22 21:06:18
+90,Números reales y sus propiedades,,1,3,False,False,2018-07-18 01:45:08
+92,Propiedades de campo y la solución de ecuaciones,,2,3,False,False,2018-07-18 09:17:33
+91,Desigualdades,,3,3,False,False,2018-07-18 08:54:10
+93,Evaluación,,4,3,True,False,2018-07-18 19:33:55
+110,Evaluación,,5,20,True,False,2018-07-23 19:05:33
+105,Práctica,Ejercicios de práctica,4,4,False,True,1900-07-23 04:24:15
+106,Factorización de monomio común,,1,20,False,False,2018-07-23 10:14:24
+95,Producto de binomios,,2,5,False,False,2018-07-19 01:55:27
+100,Producto de polinomios,,3,5,False,False,2018-07-19 10:23:30
+96,Evaluación,,5,5,True,False,2018-07-19 06:33:19
+118,Práctica,Descricpión,4,5,False,True,1900-07-24 04:46:54
+11,Ángulos,,1,11,<NULL>,<NULL>,2018-06-14 22:29:21
+122,Función,,1,21,False,False,2018-07-24 13:49:50
+123,Funciones lineales,,2,21,False,False,2018-07-24 13:49:58
+124,Modelado con funciones lineales,,3,21,False,False,2018-07-24 13:50:08
+125,Evaluación,,4,21,True,False,2018-07-24 13:50:16
+5,Funciones Trigonométricas de Ángulos Agudos ,,2,11,<NULL>,<NULL>,2018-06-19 23:00:54
+111,Factorización de monomio común,,1,6,False,False,2018-07-23 10:14:24
+6,Funciones Trigonométricas de Números Reales ,,4,11,<NULL>,<NULL>,2018-06-19 23:05:10
+4,Gráfica de Funciones Trigonométricas,,5,11,False,<NULL>,2018-06-19 23:05:49
+112,Factorización en binomios con término común,,2,6,False,False,2018-07-23 11:40:12
+113,Factorización de diferencia de cuadrados,,3,6,False,False,2018-07-23 11:40:37
+114,Factorización de trinomios cuadrados perfectos,,4,6,False,False,2018-07-23 11:40:49
+121,Factoriza en binomios al cubo,,5,6,False,False,2018-07-24 12:09:29
+119,Factorización en trinomios al cuadrado,,6,6,False,False,2018-07-24 08:48:42
+116,Factorización de diferencia de cubos,,7,6,False,False,2018-07-24 04:45:06
+120,Evaluación,,9,6,True,False,2018-07-24 11:23:40
+126,Práctica,Práctica de diferentes problemas de factorización,8,6,False,True,1900-07-25 07:55:48
+127,Sistemas de ecuaciones lineales,,1,22,False,False,2018-07-25 09:41:36
+128,Métodos de solución,,2,22,False,False,2018-07-25 09:41:45
+129,Problemas,,3,22,False,False,2018-07-25 09:42:12
+130,Evaluación,,3,13,True,False,2018-07-25 12:12:43
+131,Evaluación,,4,22,True,False,2018-07-25 12:30:42
+136,Evaluación,,3,12,True,False,2018-07-25 22:45:03
+132,Polinomios,,1,7,False,False,2018-07-25 13:28:22
+133,Operaciones con polinomios,,2,7,False,False,2018-07-25 20:04:20
+176,Test,,1,44,False,False,2018-12-13 17:39:17
+134,Evaluación,,3,7,True,False,2018-07-25 20:04:29
+139,Test,,1,23,False,False,2018-07-26 07:43:32
+141,Evaluación,,1,28,True,False,2018-07-26 11:08:28
+179,Variaciones de presión en un fluido estático.,,1,71,False,False,2019-01-24 12:07:28
+143,Evaluación,,1,31,True,False,2018-07-26 15:19:30
+144,Evaluación,,3,14,True,False,2018-07-27 09:40:27
+145,Evaluación,,2,15,True,False,2018-07-28 09:08:14
+180,Sección 1,,1,55,False,False,2019-03-12 17:47:34
+140,Evaluación,,6,11,True,False,2018-07-26 10:50:53
+146,Triángulos,,1,25,False,False,2018-07-28 18:28:04
+147,Cuadriláteros,,2,25,False,False,2018-07-28 18:28:12
+150,Polígonos regulares,,4,25,False,False,2018-07-29 05:31:11
+149,Evaluación,,5,25,True,False,2018-07-28 18:28:33
+151,Evaluación,,3,10,True,False,2018-07-29 08:02:50
+142,Aplicaciones de Trigonometría en Triángulos Rectángulos,,3,11,False,False,2018-07-26 12:18:22
+148,Círculos,,3,25,False,False,2018-07-28 18:28:25
+152,Evaluación,,3,9,True,False,2018-07-30 10:34:05
+153,Prismas y pirámides,,1,26,False,False,2018-07-31 10:39:32
+154,Evaluación,,2,26,True,False,2018-08-02 04:43:07
+155,Evaluación,,1,32,True,False,2018-08-02 14:28:39
+157,Evaluación,,1,29,True,False,2018-08-03 10:28:39
+158,Aprendizaje estadístico,,1,33,False,False,2018-08-14 09:56:20
+159,Regresión lineal,,2,33,False,False,2018-08-14 10:56:42
+160,Evaluación,,3,33,True,False,2018-08-15 17:49:38
+172,Primera Ley de Newton. Inercia.,,1,54,False,False,2018-11-24 19:38:37
+173,"Segunda Ley de Newton. Fuerza, masa y aceleración.",,2,54,False,False,2018-11-24 19:38:52
+174,Tercera Ley de Newton. Acción y reacción.,,3,54,False,False,2018-11-24 19:39:09
+175,Aplicaciones de las Leyes de Newton.,,4,54,False,False,2018-11-24 19:39:23
+185,1.a.ii-a. Velocidad promedio y rapidez promedio,,1,53,False,False,2019-03-20 23:37:02
+184,1.a.ii-b. Velocidad instantánea,,2,53,False,False,2019-03-19 21:44:48
+182,1.a.iii-a. Aceleración,,3,53,False,False,2019-03-12 20:57:19
+181,1.a.iii-b. Aceleración constante.,,4,53,False,False,2019-03-12 18:28:33
+188,1.a.iv. Caida libre.,,5,53,False,False,2019-03-30 17:25:26
+186,1.b.i. Posición y desplazamiento en 2D.,,6,53,False,False,2019-03-26 19:56:05
+189,1.b.i.c. Aceleración promedio e instantanea en 2D.,,8,53,False,False,2019-04-11 11:18:04
+162,Pruebas Movimiento unidimensional ,,11,53,False,False,2018-09-19 10:39:57
+165,Pruebas Velocidad promedio e instantánea.,,12,53,False,False,2018-11-24 19:34:55
+169,1.b.i.b. Velocidad promedio e instantanea en 2D.,,7,53,False,False,2018-11-24 19:36:51
+171,1.b.iii. Movimiento circular uniforme. ,,10,53,False,False,2018-11-24 19:37:27
+170,1.b.ii. Movimiento parabólico.,,9,53,False,False,2018-11-24 19:37:11
+190,Evaluación,,1,110,True,False,2019-10-31 12:45:00
