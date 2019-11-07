@@ -18,5 +18,13 @@ Una unidad está compuesta temas
 
 ### Secciones
 
-Los temas pueden dividirse en secciones
+Una sección es la unidad de aprendizaje más básica, con las cuales se compone un tema.
+
+### Actividades
+
+En cada sección se lista una serie de actividades que los estudiantes deben desarrollar, las cuales pueden ser de los siguientes tipos: 
+
+1. Notas.
+2. Videos.
+3. Ejercicios.
 
