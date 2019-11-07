@@ -39,4 +39,7 @@ Lista las actividades (ejercicios) que un usuarios ha resuelto correctamente en 
 
 Para cada tema, el usuario debe presentar una evaluación. La tabla lista los ejercicios resueltos correctamente.
 
-### 
+### EjerciciosDia
+
+Total de ejercciios resueltos en un día, por usuario y por curso.
+
