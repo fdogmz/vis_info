@@ -1,8 +1,8 @@
-# Visualización de datos 
+# Proyecto de Visualización de Datos 
+
+En este docuemnto se presenta una descripción de las tablas de la base de datos de la Plataforma de Matemáticas de la Universidad del Caribe. En la primera parte se describe la jerarquía de la información contenida en los cursos, en la segunda el registro de las actividades de los usuarios.
 
 ## Jerarquía de la información
-
-La siguiente es una breve descripción de las tablas con información de la Plataforma de Matemáticas
 
 ### Cursos
 
@@ -27,4 +27,12 @@ En cada sección se lista una serie de actividades que los estudiantes deben des
 1. Notas.
 2. Videos.
 3. Ejercicios.
+
+## Actividades de usuarios
+
+
+### ResumenActTema
+
+Lista las actividades (ejercicios) que un usuarios ha resuelto correctamente en cada tema. Presenta también una columna con el procentaje de avance del usuario en el tema.
+
 
