@@ -43,3 +43,6 @@ Para cada tema, el usuario debe presentar una evaluación. La tabla lista los ej
 
 Total de ejercciios resueltos en un día, por usuario y por curso.
 
+### Estudiante
+
+Información para identificar los grupos. Se indica el programa educativo del estudiante, su profesor, seccción (un profesor puede atender a más de un grupo al mismo tiempo) y el periodo en el que se formó el grupo. 
