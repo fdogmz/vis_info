@@ -35,4 +35,8 @@ En cada sección se lista una serie de actividades que los estudiantes deben des
 
 Lista las actividades (ejercicios) que un usuarios ha resuelto correctamente en cada tema. Presenta también una columna con el procentaje de avance del usuario en el tema.
 
+### HistorialEvaluación
 
+Para cada tema, el usuario debe presentar una evaluación. La tabla lista los ejercicios resueltos correctamente.
+
+### 
