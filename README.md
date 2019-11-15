@@ -45,4 +45,4 @@ Total de ejercciios resueltos en un día, por usuario y por curso.
 
 ### Estudiante
 
-Información para identificar los grupos. Se indica el programa educativo del estudiante, su profesor, seccción (un profesor puede atender a más de un grupo al mismo tiempo) y el periodo en el que se formó el grupo. 
+Información para identificar los grupos. Se indica el programa educativo del estudiante, su profesor, seccción (un profesor puede atender a más de un grupo al mismo tiempo) y el periodo en el que se formó el grupo. **Nota:** Los datos aquí presentados no son reales, se generaron permutando los registros aleatoriamente.
